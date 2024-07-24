@@ -1,0 +1,6118 @@
+[
+  {
+    "link": "https://leetcode.com/problems/lru-cache",
+    "title": "146. LRU Cache",
+    "difficulty": "Medium",
+    "frequency": 546.4123999999999,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 83.4264
+      },
+      {
+        "company": "apple",
+        "frequency": 95.5208
+      },
+      {
+        "company": "meta",
+        "frequency": 71.9092
+      },
+      {
+        "company": "microsoft",
+        "frequency": 97.9343
+      },
+      {
+        "company": "nvidia",
+        "frequency": 77.7011
+      },
+      {
+        "company": "google",
+        "frequency": 70.9956
+      },
+      {
+        "company": "salesforce",
+        "frequency": 48.925
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-islands",
+    "title": "200. Number of Islands",
+    "difficulty": "Medium",
+    "frequency": 433.44820000000004,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 83.266
+      },
+      {
+        "company": "apple",
+        "frequency": 78.1399
+      },
+      {
+        "company": "meta",
+        "frequency": 65.097
+      },
+      {
+        "company": "microsoft",
+        "frequency": 81.0899
+      },
+      {
+        "company": "nvidia",
+        "frequency": 22.0236
+      },
+      {
+        "company": "google",
+        "frequency": 70.7707
+      },
+      {
+        "company": "salesforce",
+        "frequency": 33.0611
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "title": "253. Meeting Rooms II",
+    "difficulty": "Medium",
+    "frequency": 420.5286,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 74.279
+      },
+      {
+        "company": "apple",
+        "frequency": 70.4885
+      },
+      {
+        "company": "meta",
+        "frequency": 65.5046
+      },
+      {
+        "company": "microsoft",
+        "frequency": 83.9227
+      },
+      {
+        "company": "google",
+        "frequency": 80.4694
+      },
+      {
+        "company": "salesforce",
+        "frequency": 45.8644
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-intervals",
+    "title": "56. Merge Intervals",
+    "difficulty": "Medium",
+    "frequency": 397.5364,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 68.4446
+      },
+      {
+        "company": "apple",
+        "frequency": 79.3738
+      },
+      {
+        "company": "meta",
+        "frequency": 74.0785
+      },
+      {
+        "company": "microsoft",
+        "frequency": 76.6977
+      },
+      {
+        "company": "google",
+        "frequency": 63.2201
+      },
+      {
+        "company": "salesforce",
+        "frequency": 35.7217
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/trapping-rain-water",
+    "title": "42. Trapping Rain Water",
+    "difficulty": "Hard",
+    "frequency": 360.9755,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 79.123
+      },
+      {
+        "company": "apple",
+        "frequency": 79.6395
+      },
+      {
+        "company": "microsoft",
+        "frequency": 77.8984
+      },
+      {
+        "company": "nvidia",
+        "frequency": 31.4621
+      },
+      {
+        "company": "google",
+        "frequency": 61.0829
+      },
+      {
+        "company": "salesforce",
+        "frequency": 31.7696
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/group-anagrams",
+    "title": "49. Group Anagrams",
+    "difficulty": "Medium",
+    "frequency": 311.9852,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 71.88
+      },
+      {
+        "company": "apple",
+        "frequency": 78.9513
+      },
+      {
+        "company": "microsoft",
+        "frequency": 71.732
+      },
+      {
+        "company": "nvidia",
+        "frequency": 54.0442
+      },
+      {
+        "company": "salesforce",
+        "frequency": 35.3777
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "title": "23. Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "frequency": 298.5331,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 70.3501
+      },
+      {
+        "company": "apple",
+        "frequency": 63.3622
+      },
+      {
+        "company": "meta",
+        "frequency": 67.9997
+      },
+      {
+        "company": "microsoft",
+        "frequency": 74.599
+      },
+      {
+        "company": "salesforce",
+        "frequency": 22.2221
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "title": "3. Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "frequency": 276.015,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 68.2496
+      },
+      {
+        "company": "apple",
+        "frequency": 81.099
+      },
+      {
+        "company": "microsoft",
+        "frequency": 74.6106
+      },
+      {
+        "company": "nvidia",
+        "frequency": 26.0138
+      },
+      {
+        "company": "salesforce",
+        "frequency": 26.042
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "title": "121. Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "frequency": 260.227,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 67.6009
+      },
+      {
+        "company": "apple",
+        "frequency": 74.4549
+      },
+      {
+        "company": "microsoft",
+        "frequency": 61.3085
+      },
+      {
+        "company": "nvidia",
+        "frequency": 36.3033
+      },
+      {
+        "company": "salesforce",
+        "frequency": 20.5594
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/two-sum",
+    "title": "1. Two Sum",
+    "difficulty": "Easy",
+    "frequency": 331.2205,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 81.2122
+      },
+      {
+        "company": "apple",
+        "frequency": 93.9204
+      },
+      {
+        "company": "microsoft",
+        "frequency": 78.3506
+      },
+      {
+        "company": "google",
+        "frequency": 77.7373
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "title": "348. Design Tic-Tac-Toe",
+    "difficulty": "Medium",
+    "frequency": 304.5177,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 66.5482
+      },
+      {
+        "company": "apple",
+        "frequency": 80.3515
+      },
+      {
+        "company": "meta",
+        "frequency": 70.0046
+      },
+      {
+        "company": "microsoft",
+        "frequency": 87.6134
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/roman-to-integer",
+    "title": "13. Roman to Integer",
+    "difficulty": "Easy",
+    "frequency": 300.1858,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 69.2076
+      },
+      {
+        "company": "apple",
+        "frequency": 90.4347
+      },
+      {
+        "company": "microsoft",
+        "frequency": 72.9286
+      },
+      {
+        "company": "google",
+        "frequency": 67.6149
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "title": "4. Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "frequency": 284.4316,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 70.5302
+      },
+      {
+        "company": "apple",
+        "frequency": 79.2958
+      },
+      {
+        "company": "microsoft",
+        "frequency": 72.1356
+      },
+      {
+        "company": "google",
+        "frequency": 62.47
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/create-hello-world-function",
+    "title": "2667. Create Hello World Function",
+    "difficulty": "Easy",
+    "frequency": 279.2212,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 60.4726
+      },
+      {
+        "company": "apple",
+        "frequency": 79.9207
+      },
+      {
+        "company": "microsoft",
+        "frequency": 63.0597
+      },
+      {
+        "company": "google",
+        "frequency": 75.7682
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-sorted-array",
+    "title": "88. Merge Sorted Array",
+    "difficulty": "Easy",
+    "frequency": 263.6062,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.9616
+      },
+      {
+        "company": "apple",
+        "frequency": 64.5372
+      },
+      {
+        "company": "meta",
+        "frequency": 68.3551
+      },
+      {
+        "company": "microsoft",
+        "frequency": 67.7523
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "title": "17. Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "frequency": 260.48699999999997,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 68.2182
+      },
+      {
+        "company": "apple",
+        "frequency": 68.4576
+      },
+      {
+        "company": "meta",
+        "frequency": 58.8248
+      },
+      {
+        "company": "microsoft",
+        "frequency": 64.9864
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/add-two-numbers",
+    "title": "2. Add Two Numbers",
+    "difficulty": "Medium",
+    "frequency": 257.73400000000004,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 66.0686
+      },
+      {
+        "company": "apple",
+        "frequency": 81.0983
+      },
+      {
+        "company": "microsoft",
+        "frequency": 68.0441
+      },
+      {
+        "company": "nvidia",
+        "frequency": 42.523
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "title": "138. Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "frequency": 247.2413,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.934
+      },
+      {
+        "company": "meta",
+        "frequency": 73.903
+      },
+      {
+        "company": "microsoft",
+        "frequency": 66.5267
+      },
+      {
+        "company": "nvidia",
+        "frequency": 42.8776
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "title": "5. Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "frequency": 243.98549999999997,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 70.1177
+      },
+      {
+        "company": "apple",
+        "frequency": 69.0531
+      },
+      {
+        "company": "microsoft",
+        "frequency": 71.3445
+      },
+      {
+        "company": "salesforce",
+        "frequency": 33.4702
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "title": "347. Top K Frequent Elements",
+    "difficulty": "Medium",
+    "frequency": 231.2474,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.6766
+      },
+      {
+        "company": "apple",
+        "frequency": 73.0323
+      },
+      {
+        "company": "meta",
+        "frequency": 69.0511
+      },
+      {
+        "company": "salesforce",
+        "frequency": 25.4874
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sliding-window-maximum",
+    "title": "239. Sliding Window Maximum",
+    "difficulty": "Hard",
+    "frequency": 226.7166,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 71.1751
+      },
+      {
+        "company": "microsoft",
+        "frequency": 70.5732
+      },
+      {
+        "company": "google",
+        "frequency": 60.4632
+      },
+      {
+        "company": "salesforce",
+        "frequency": 24.5051
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "title": "215. Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "frequency": 207.57739999999998,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.5272
+      },
+      {
+        "company": "meta",
+        "frequency": 85.9129
+      },
+      {
+        "company": "nvidia",
+        "frequency": 32.6907
+      },
+      {
+        "company": "salesforce",
+        "frequency": 26.4466
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-parentheses",
+    "title": "20. Valid Parentheses",
+    "difficulty": "Easy",
+    "frequency": 198.3284,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 64.9066
+      },
+      {
+        "company": "apple",
+        "frequency": 69.8202
+      },
+      {
+        "company": "nvidia",
+        "frequency": 26.6815
+      },
+      {
+        "company": "salesforce",
+        "frequency": 36.9201
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/integer-to-english-words",
+    "title": "273. Integer to English Words",
+    "difficulty": "Hard",
+    "frequency": 261.674,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 71.9949
+      },
+      {
+        "company": "apple",
+        "frequency": 100
+      },
+      {
+        "company": "microsoft",
+        "frequency": 89.6791
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "title": "772. Basic Calculator III",
+    "difficulty": "Hard",
+    "frequency": 231.892,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.1698
+      },
+      {
+        "company": "apple",
+        "frequency": 86.6643
+      },
+      {
+        "company": "microsoft",
+        "frequency": 83.0579
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "title": "545. Boundary of Binary Tree",
+    "difficulty": "Medium",
+    "frequency": 212.0745,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 69.86
+      },
+      {
+        "company": "apple",
+        "frequency": 73.7071
+      },
+      {
+        "company": "microsoft",
+        "frequency": 68.5074
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-hashmap",
+    "title": "706. Design HashMap",
+    "difficulty": "Easy",
+    "frequency": 208.5728,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 79.7801
+      },
+      {
+        "company": "microsoft",
+        "frequency": 79.3435
+      },
+      {
+        "company": "nvidia",
+        "frequency": 49.4492
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/word-break-ii",
+    "title": "140. Word Break II",
+    "difficulty": "Hard",
+    "frequency": 208.1726,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 74.8844
+      },
+      {
+        "company": "meta",
+        "frequency": 64.9673
+      },
+      {
+        "company": "microsoft",
+        "frequency": 68.3209
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/3sum",
+    "title": "15. 3Sum",
+    "difficulty": "Medium",
+    "frequency": 204.36540000000002,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.6156
+      },
+      {
+        "company": "apple",
+        "frequency": 77.6088
+      },
+      {
+        "company": "meta",
+        "frequency": 65.141
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-number",
+    "title": "179. Largest Number",
+    "difficulty": "Medium",
+    "frequency": 204.0366,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 67.1607
+      },
+      {
+        "company": "microsoft",
+        "frequency": 84.2365
+      },
+      {
+        "company": "salesforce",
+        "frequency": 52.6394
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/robot-room-cleaner",
+    "title": "489. Robot Room Cleaner",
+    "difficulty": "Hard",
+    "frequency": 203.0367,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 67.4299
+      },
+      {
+        "company": "microsoft",
+        "frequency": 61.6695
+      },
+      {
+        "company": "google",
+        "frequency": 73.9373
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/spiral-matrix",
+    "title": "54. Spiral Matrix",
+    "difficulty": "Medium",
+    "frequency": 200.9992,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.0519
+      },
+      {
+        "company": "apple",
+        "frequency": 69.8479
+      },
+      {
+        "company": "microsoft",
+        "frequency": 70.0994
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-subarray",
+    "title": "53. Maximum Subarray",
+    "difficulty": "Medium",
+    "frequency": 198.35660000000001,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.3268
+      },
+      {
+        "company": "apple",
+        "frequency": 63.9669
+      },
+      {
+        "company": "microsoft",
+        "frequency": 71.0629
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "title": "588. Design In-Memory File System",
+    "difficulty": "Hard",
+    "frequency": 194.9049,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 68.241
+      },
+      {
+        "company": "microsoft",
+        "frequency": 61.6695
+      },
+      {
+        "company": "salesforce",
+        "frequency": 64.9944
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/lfu-cache",
+    "title": "460. LFU Cache",
+    "difficulty": "Hard",
+    "frequency": 189.8453,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.6829
+      },
+      {
+        "company": "microsoft",
+        "frequency": 66.3838
+      },
+      {
+        "company": "salesforce",
+        "frequency": 59.7786
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "title": "863. All Nodes Distance K in Binary Tree",
+    "difficulty": "Medium",
+    "frequency": 187.2843,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.5775
+      },
+      {
+        "company": "meta",
+        "frequency": 62.5611
+      },
+      {
+        "company": "microsoft",
+        "frequency": 62.1457
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/course-schedule",
+    "title": "207. Course Schedule",
+    "difficulty": "Medium",
+    "frequency": 186.9177,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 66.3786
+      },
+      {
+        "company": "apple",
+        "frequency": 64.8882
+      },
+      {
+        "company": "meta",
+        "frequency": 55.6509
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "title": "295. Find Median from Data Stream",
+    "difficulty": "Hard",
+    "frequency": 183.812,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 68.7516
+      },
+      {
+        "company": "microsoft",
+        "frequency": 69.2492
+      },
+      {
+        "company": "nvidia",
+        "frequency": 45.8112
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-sudoku",
+    "title": "36. Valid Sudoku",
+    "difficulty": "Medium",
+    "frequency": 181.0703,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.276
+      },
+      {
+        "company": "apple",
+        "frequency": 81.7786
+      },
+      {
+        "company": "nvidia",
+        "frequency": 38.0157
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/first-missing-positive",
+    "title": "41. First Missing Positive",
+    "difficulty": "Hard",
+    "frequency": 180.0283,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 64.0819
+      },
+      {
+        "company": "microsoft",
+        "frequency": 79.1198
+      },
+      {
+        "company": "salesforce",
+        "frequency": 36.8266
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "title": "378. Kth Smallest Element in a Sorted Matrix",
+    "difficulty": "Medium",
+    "frequency": 176.5128,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 59.6177
+      },
+      {
+        "company": "microsoft",
+        "frequency": 66.7945
+      },
+      {
+        "company": "salesforce",
+        "frequency": 50.1006
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/rotate-image",
+    "title": "48. Rotate Image",
+    "difficulty": "Medium",
+    "frequency": 168.9287,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 60.1638
+      },
+      {
+        "company": "apple",
+        "frequency": 67.55
+      },
+      {
+        "company": "nvidia",
+        "frequency": 41.2149
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/product-of-array-except-self",
+    "title": "238. Product of Array Except Self",
+    "difficulty": "Medium",
+    "frequency": 156.0258,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 69.9511
+      },
+      {
+        "company": "microsoft",
+        "frequency": 64.8269
+      },
+      {
+        "company": "salesforce",
+        "frequency": 21.2478
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "title": "33. Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "frequency": 112.63159999999999,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.2457
+      },
+      {
+        "company": "nvidia",
+        "frequency": 26.6203
+      },
+      {
+        "company": "salesforce",
+        "frequency": 21.7656
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sum-of-total-strength-of-wizards",
+    "title": "2281. Sum of Total Strength of Wizards",
+    "difficulty": "Hard",
+    "frequency": 177.6388,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 100
+      },
+      {
+        "company": "apple",
+        "frequency": 77.6388
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/random-pick-with-weight",
+    "title": "528. Random Pick with Weight",
+    "difficulty": "Medium",
+    "frequency": 173.25310000000002,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 93.101
+      },
+      {
+        "company": "google",
+        "frequency": 80.1521
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/race-car",
+    "title": "818. Race Car",
+    "difficulty": "Hard",
+    "frequency": 172.8989,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 75.4266
+      },
+      {
+        "company": "google",
+        "frequency": 97.4723
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/search-suggestions-system",
+    "title": "1268. Search Suggestions System",
+    "difficulty": "Medium",
+    "frequency": 169.5301,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 69.5301
+      },
+      {
+        "company": "salesforce",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+    "title": "2398. Maximum Number of Robots Within Budget",
+    "difficulty": "Hard",
+    "frequency": 160.4658,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 85.1758
+      },
+      {
+        "company": "apple",
+        "frequency": 75.29
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+    "title": "1570. Dot Product of Two Sparse Vectors",
+    "difficulty": "Medium",
+    "frequency": 155.5251,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 95.1644
+      },
+      {
+        "company": "nvidia",
+        "frequency": 60.3607
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "title": "362. Design Hit Counter",
+    "difficulty": "Medium",
+    "frequency": 152.27249999999998,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 88.1951
+      },
+      {
+        "company": "google",
+        "frequency": 64.0774
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list",
+    "title": "426. Convert Binary Search Tree to Sorted Doubly Linked List",
+    "difficulty": "Medium",
+    "frequency": 150.8282,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 87.8529
+      },
+      {
+        "company": "microsoft",
+        "frequency": 62.9753
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-multiple-of-three",
+    "title": "1363. Largest Multiple of Three",
+    "difficulty": "Hard",
+    "frequency": 150.30259999999998,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 87.2905
+      },
+      {
+        "company": "google",
+        "frequency": 63.0121
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "title": "346. Moving Average from Data Stream",
+    "difficulty": "Easy",
+    "frequency": 150.13639999999998,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 84.389
+      },
+      {
+        "company": "google",
+        "frequency": 65.7474
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/beautiful-arrangement",
+    "title": "526. Beautiful Arrangement",
+    "difficulty": "Medium",
+    "frequency": 149.3157,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 69.4934
+      },
+      {
+        "company": "salesforce",
+        "frequency": 79.8223
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-common-prefix",
+    "title": "14. Longest Common Prefix",
+    "difficulty": "Easy",
+    "frequency": 146.9378,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.5131
+      },
+      {
+        "company": "apple",
+        "frequency": 84.4247
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence-ii",
+    "title": "2407. Longest Increasing Subsequence II",
+    "difficulty": "Hard",
+    "frequency": 146.7495,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 70.2103
+      },
+      {
+        "company": "google",
+        "frequency": 76.5392
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/add-two-integers",
+    "title": "2235. Add Two Integers",
+    "difficulty": "Easy",
+    "frequency": 146.5818,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 77.885
+      },
+      {
+        "company": "google",
+        "frequency": 68.6968
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/the-latest-time-to-catch-a-bus",
+    "title": "2332. The Latest Time to Catch a Bus",
+    "difficulty": "Medium",
+    "frequency": 142.7438,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 71.636
+      },
+      {
+        "company": "google",
+        "frequency": 71.1078
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "title": "973. K Closest Points to Origin",
+    "difficulty": "Medium",
+    "frequency": 142.0421,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.1563
+      },
+      {
+        "company": "meta",
+        "frequency": 78.8858
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome",
+    "title": "2193. Minimum Number of Moves to Make Palindrome",
+    "difficulty": "Hard",
+    "frequency": 141.8671,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 77.7336
+      },
+      {
+        "company": "apple",
+        "frequency": 64.1335
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "title": "1642. Furthest Building You Can Reach",
+    "difficulty": "Medium",
+    "frequency": 141.4325,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 75.7781
+      },
+      {
+        "company": "microsoft",
+        "frequency": 65.6544
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/word-break",
+    "title": "139. Word Break",
+    "difficulty": "Medium",
+    "frequency": 141.3259,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 64.3336
+      },
+      {
+        "company": "salesforce",
+        "frequency": 76.9923
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "title": "236. Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "frequency": 140.8572,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.6132
+      },
+      {
+        "company": "meta",
+        "frequency": 79.244
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree",
+    "title": "428. Serialize and Deserialize N-ary Tree",
+    "difficulty": "Hard",
+    "frequency": 139.4412,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 77.7916
+      },
+      {
+        "company": "google",
+        "frequency": 61.6496
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/stickers-to-spell-word",
+    "title": "691. Stickers to Spell Word",
+    "difficulty": "Hard",
+    "frequency": 137.0015,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 83.526
+      },
+      {
+        "company": "salesforce",
+        "frequency": 53.4755
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/next-permutation",
+    "title": "31. Next Permutation",
+    "difficulty": "Medium",
+    "frequency": 134.8528,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 66.8529
+      },
+      {
+        "company": "meta",
+        "frequency": 67.9999
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-trees-with-factors",
+    "title": "823. Binary Trees With Factors",
+    "difficulty": "Medium",
+    "frequency": 134.8328,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.1536
+      },
+      {
+        "company": "apple",
+        "frequency": 72.6792
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/text-justification",
+    "title": "68. Text Justification",
+    "difficulty": "Hard",
+    "frequency": 133.6361,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 61.233
+      },
+      {
+        "company": "google",
+        "frequency": 72.4031
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/snapshot-array",
+    "title": "1146. Snapshot Array",
+    "difficulty": "Medium",
+    "frequency": 132.7281,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 58.0251
+      },
+      {
+        "company": "google",
+        "frequency": 74.703
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reordered-power-of-2",
+    "title": "869. Reordered Power of 2",
+    "difficulty": "Medium",
+    "frequency": 132.1058,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 68.6014
+      },
+      {
+        "company": "microsoft",
+        "frequency": 63.5044
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/word-search-ii",
+    "title": "212. Word Search II",
+    "difficulty": "Hard",
+    "frequency": 131.13400000000001,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.718
+      },
+      {
+        "company": "microsoft",
+        "frequency": 69.416
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+    "title": "1344. Angle Between Hands of a Clock",
+    "difficulty": "Medium",
+    "frequency": 130.50639999999999,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 67.7936
+      },
+      {
+        "company": "microsoft",
+        "frequency": 62.7128
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/battleships-in-a-board",
+    "title": "419. Battleships in a Board",
+    "difficulty": "Medium",
+    "frequency": 130.2956,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 66.1187
+      },
+      {
+        "company": "google",
+        "frequency": 64.1769
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-absolute-file-path",
+    "title": "388. Longest Absolute File Path",
+    "difficulty": "Medium",
+    "frequency": 130.2579,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.1335
+      },
+      {
+        "company": "google",
+        "frequency": 66.1244
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes",
+    "title": "865. Smallest Subtree with all the Deepest Nodes",
+    "difficulty": "Medium",
+    "frequency": 129.5958,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 56.9934
+      },
+      {
+        "company": "salesforce",
+        "frequency": 72.6024
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "title": "339. Nested List Weight Sum",
+    "difficulty": "Medium",
+    "frequency": 128.9059,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 91.3449
+      },
+      {
+        "company": "salesforce",
+        "frequency": 37.561
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/regular-expression-matching",
+    "title": "10. Regular Expression Matching",
+    "difficulty": "Hard",
+    "frequency": 128.393,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.1322
+      },
+      {
+        "company": "microsoft",
+        "frequency": 66.2608
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/expression-add-operators",
+    "title": "282. Expression Add Operators",
+    "difficulty": "Hard",
+    "frequency": 128.0965,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 62.5197
+      },
+      {
+        "company": "google",
+        "frequency": 65.5768
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/generate-parentheses",
+    "title": "22. Generate Parentheses",
+    "difficulty": "Medium",
+    "frequency": 127.4496,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.2413
+      },
+      {
+        "company": "microsoft",
+        "frequency": 64.2083
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/decode-string",
+    "title": "394. Decode String",
+    "difficulty": "Medium",
+    "frequency": 127.3825,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.4628
+      },
+      {
+        "company": "google",
+        "frequency": 62.9197
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-circular-queue",
+    "title": "622. Design Circular Queue",
+    "difficulty": "Medium",
+    "frequency": 127.21790000000001,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 71.6008
+      },
+      {
+        "company": "nvidia",
+        "frequency": 55.6171
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/container-with-most-water",
+    "title": "11. Container With Most Water",
+    "difficulty": "Medium",
+    "frequency": 125.6713,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.6303
+      },
+      {
+        "company": "apple",
+        "frequency": 64.041
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "title": "1209. Remove All Adjacent Duplicates in String II",
+    "difficulty": "Medium",
+    "frequency": 124.3814,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 61.6975
+      },
+      {
+        "company": "microsoft",
+        "frequency": 62.6839
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "title": "694. Number of Distinct Islands",
+    "difficulty": "Medium",
+    "frequency": 124.02539999999999,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 60.5689
+      },
+      {
+        "company": "microsoft",
+        "frequency": 63.4565
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/top-k-frequent-words",
+    "title": "692. Top K Frequent Words",
+    "difficulty": "Medium",
+    "frequency": 123.9709,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 63.142
+      },
+      {
+        "company": "google",
+        "frequency": 60.8289
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+    "title": "921. Minimum Add to Make Parentheses Valid",
+    "difficulty": "Medium",
+    "frequency": 123.7101,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 79.4091
+      },
+      {
+        "company": "nvidia",
+        "frequency": 44.301
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/pascals-triangle",
+    "title": "118. Pascal's Triangle",
+    "difficulty": "Easy",
+    "frequency": 123.6397,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 59.9369
+      },
+      {
+        "company": "apple",
+        "frequency": 63.7028
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "title": "304. Range Sum Query 2D - Immutable",
+    "difficulty": "Medium",
+    "frequency": 122.0588,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 61.0504
+      },
+      {
+        "company": "nvidia",
+        "frequency": 61.0084
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/degree-of-an-array",
+    "title": "697. Degree of an Array",
+    "difficulty": "Easy",
+    "frequency": 121.86500000000001,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 59.2295
+      },
+      {
+        "company": "salesforce",
+        "frequency": 62.6355
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-and-say",
+    "title": "38. Count and Say",
+    "difficulty": "Medium",
+    "frequency": 121.5969,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 63.8586
+      },
+      {
+        "company": "meta",
+        "frequency": 57.7383
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/max-points-on-a-line",
+    "title": "149. Max Points on a Line",
+    "difficulty": "Hard",
+    "frequency": 120.6351,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.8723
+      },
+      {
+        "company": "nvidia",
+        "frequency": 55.7628
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-matching-subsequences",
+    "title": "792. Number of Matching Subsequences",
+    "difficulty": "Medium",
+    "frequency": 118.9587,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 65.0105
+      },
+      {
+        "company": "salesforce",
+        "frequency": 53.9482
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "title": "713. Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "frequency": 113.0748,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 47.14
+      },
+      {
+        "company": "salesforce",
+        "frequency": 65.9348
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "title": "116. Populating Next Right Pointers in Each Node",
+    "difficulty": "Medium",
+    "frequency": 112.7371,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 70.076
+      },
+      {
+        "company": "salesforce",
+        "frequency": 42.6611
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "title": "329. Longest Increasing Path in a Matrix",
+    "difficulty": "Hard",
+    "frequency": 112.56349999999999,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 47.7679
+      },
+      {
+        "company": "google",
+        "frequency": 64.7956
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/koko-eating-bananas",
+    "title": "875. Koko Eating Bananas",
+    "difficulty": "Medium",
+    "frequency": 104.8429,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 68.9059
+      },
+      {
+        "company": "salesforce",
+        "frequency": 35.937
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "title": "199. Binary Tree Right Side View",
+    "difficulty": "Medium",
+    "frequency": 102.8147,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 74.6682
+      },
+      {
+        "company": "salesforce",
+        "frequency": 28.1465
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/rotting-oranges",
+    "title": "994. Rotting Oranges",
+    "difficulty": "Medium",
+    "frequency": 99.584,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.0565
+      },
+      {
+        "company": "salesforce",
+        "frequency": 36.5275
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "title": "19. Remove Nth Node From End of List",
+    "difficulty": "Medium",
+    "frequency": 96.1424,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 66.1352
+      },
+      {
+        "company": "nvidia",
+        "frequency": 30.0072
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "title": "84. Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "frequency": 96.1312,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.3558
+      },
+      {
+        "company": "salesforce",
+        "frequency": 31.7754
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/clone-graph",
+    "title": "133. Clone Graph",
+    "difficulty": "Medium",
+    "frequency": 90.39240000000001,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 65.2269
+      },
+      {
+        "company": "salesforce",
+        "frequency": 25.1655
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "title": "380. Insert Delete GetRandom O(1)",
+    "difficulty": "Medium",
+    "frequency": 89.7629,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.9049
+      },
+      {
+        "company": "salesforce",
+        "frequency": 27.858
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/daily-temperatures",
+    "title": "739. Daily Temperatures",
+    "difficulty": "Medium",
+    "frequency": 89.1765,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.3424
+      },
+      {
+        "company": "salesforce",
+        "frequency": 24.8341
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximal-square",
+    "title": "221. Maximal Square",
+    "difficulty": "Medium",
+    "frequency": 87.60730000000001,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 43.637
+      },
+      {
+        "company": "salesforce",
+        "frequency": 43.9703
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/course-schedule-ii",
+    "title": "210. Course Schedule II",
+    "difficulty": "Medium",
+    "frequency": 87.2183,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 65.7091
+      },
+      {
+        "company": "salesforce",
+        "frequency": 21.5092
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "title": "124. Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "frequency": 68.4253,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 46.4696
+      },
+      {
+        "company": "salesforce",
+        "frequency": 21.9557
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/is-subsequence",
+    "title": "392. Is Subsequence",
+    "difficulty": "Easy",
+    "frequency": 47.8096,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 21.4885
+      },
+      {
+        "company": "salesforce",
+        "frequency": 26.3211
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+    "title": "314. Binary Tree Vertical Order Traversal",
+    "difficulty": "Medium",
+    "frequency": 100,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+    "title": "2850. Minimum Moves to Spread Stones Over Grid",
+    "difficulty": "Medium",
+    "frequency": 100,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "title": "2571. Minimum Operations to Reduce an Integer to 0",
+    "difficulty": "Medium",
+    "frequency": 100,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/range-module",
+    "title": "715. Range Module",
+    "difficulty": "Hard",
+    "frequency": 100,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 100
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "title": "359. Logger Rate Limiter",
+    "difficulty": "Easy",
+    "frequency": 98.9852,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 98.9852
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/last-stone-weight",
+    "title": "1046. Last Stone Weight",
+    "difficulty": "Easy",
+    "frequency": 98.2784,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 98.2784
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/substring-with-largest-variance",
+    "title": "2272. Substring With Largest Variance",
+    "difficulty": "Hard",
+    "frequency": 98.2506,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 98.2506
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-word-abbreviation",
+    "title": "408. Valid Word Abbreviation",
+    "difficulty": "Easy",
+    "frequency": 98.06,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 98.06
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company",
+    "title": "2004. The Number of Seniors and Juniors to Join the Company",
+    "difficulty": "Hard",
+    "frequency": 97.7604,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 97.7604
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "title": "1249. Minimum Remove to Make Valid Parentheses",
+    "difficulty": "Medium",
+    "frequency": 97.5687,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 97.5687
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/meeting-rooms-iii",
+    "title": "2402. Meeting Rooms III",
+    "difficulty": "Hard",
+    "frequency": 97.0192,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 97.0192
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/length-of-the-longest-valid-substring",
+    "title": "2781. Length of the Longest Valid Substring",
+    "difficulty": "Hard",
+    "frequency": 96.5012,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 96.5012
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+    "title": "2246. Longest Path With Different Adjacent Characters",
+    "difficulty": "Hard",
+    "frequency": 95.8685,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 95.8685
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/buildings-with-an-ocean-view",
+    "title": "1762. Buildings With an Ocean View",
+    "difficulty": "Medium",
+    "frequency": 95.6287,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 95.6287
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/finding-mk-average",
+    "title": "1825. Finding MK Average",
+    "difficulty": "Hard",
+    "frequency": 95.5063,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 95.5063
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "title": "1650. Lowest Common Ancestor of a Binary Tree III",
+    "difficulty": "Medium",
+    "frequency": 95.041,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 95.041
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-health-to-beat-game",
+    "title": "2214. Minimum Health to Beat Game",
+    "difficulty": "Medium",
+    "frequency": 94.7517,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 94.7517
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-number-of-books-you-can-take",
+    "title": "2355. Maximum Number of Books You Can Take",
+    "difficulty": "Hard",
+    "frequency": 94.2508,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 94.2508
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries",
+    "title": "2458. Height of Binary Tree After Subtree Removal Queries",
+    "difficulty": "Hard",
+    "frequency": 93.9934,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 93.9934
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+    "title": "2101. Detonate the Maximum Bombs",
+    "difficulty": "Medium",
+    "frequency": 93.9322,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 93.9322
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/inorder-successor-in-bst",
+    "title": "285. Inorder Successor in BST",
+    "difficulty": "Medium",
+    "frequency": 93.8028,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 93.8028
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-missing-observations",
+    "title": "2028. Find Missing Observations",
+    "difficulty": "Medium",
+    "frequency": 92.9531,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 92.9531
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "title": "1152. Analyze User Website Visit Pattern",
+    "difficulty": "Medium",
+    "frequency": 92.5194,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 92.5194
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix",
+    "title": "2713. Maximum Strictly Increasing Cells in a Matrix",
+    "difficulty": "Hard",
+    "frequency": 92.4193,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 92.4193
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
+    "difficulty": "Medium",
+    "frequency": 92.2446,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 92.2446
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-palindromic-number",
+    "title": "2384. Largest Palindromic Number",
+    "difficulty": "Medium",
+    "frequency": 92.1281,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 92.1281
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends",
+    "title": "1101. The Earliest Moment When Everyone Become Friends",
+    "difficulty": "Medium",
+    "frequency": 91.8432,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 91.8432
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
+    "title": "1802. Maximum Value at a Given Index in a Bounded Array",
+    "difficulty": "Medium",
+    "frequency": 91.756,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 91.756
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "title": "680. Valid Palindrome II",
+    "difficulty": "Easy",
+    "frequency": 91.0756,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 91.0756
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array",
+    "title": "2340. Minimum Adjacent Swaps to Make a Valid Array",
+    "difficulty": "Medium",
+    "frequency": 90.77,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 90.77
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/parallel-courses",
+    "title": "1136. Parallel Courses",
+    "difficulty": "Medium",
+    "frequency": 90.64,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 90.64
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "title": "1326. Minimum Number of Taps to Open to Water a Garden",
+    "difficulty": "Hard",
+    "frequency": 90.452,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 90.452
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-a-text-editor",
+    "title": "2296. Design a Text Editor",
+    "difficulty": "Hard",
+    "frequency": 90.3498,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 90.3498
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "title": "465. Optimal Account Balancing",
+    "difficulty": "Hard",
+    "frequency": 90.0623,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 90.0623
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/basic-calculator-ii",
+    "title": "227. Basic Calculator II",
+    "difficulty": "Medium",
+    "frequency": 89.7929,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 89.7929
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/my-calendar-i",
+    "title": "729. My Calendar I",
+    "difficulty": "Medium",
+    "frequency": 89.65,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 89.65
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/plates-between-candles",
+    "title": "2055. Plates Between Candles",
+    "difficulty": "Medium",
+    "frequency": 89.0206,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 89.0206
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/odd-even-jump",
+    "title": "975. Odd Even Jump",
+    "difficulty": "Hard",
+    "frequency": 88.8988,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 88.8988
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree",
+    "title": "255. Verify Preorder Sequence in Binary Search Tree",
+    "difficulty": "Medium",
+    "frequency": 88.4798,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 88.4798
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings",
+    "title": "2416. Sum of Prefix Scores of Strings",
+    "difficulty": "Hard",
+    "frequency": 87.3859,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 87.3859
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-keypresses",
+    "title": "2268. Minimum Number of Keypresses",
+    "difficulty": "Medium",
+    "frequency": 87.2711,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 87.2711
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "title": "1293. Shortest Path in a Grid with Obstacles Elimination",
+    "difficulty": "Hard",
+    "frequency": 86.9699,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 86.9699
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/concatenated-words",
+    "title": "472. Concatenated Words",
+    "difficulty": "Hard",
+    "frequency": 86.9252,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 86.9252
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "title": "939. Minimum Area Rectangle",
+    "difficulty": "Medium",
+    "frequency": 86.4947,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 86.4947
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/differences-between-two-objects",
+    "title": "2700. Differences Between Two Objects",
+    "difficulty": "Medium",
+    "frequency": 86.2256,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 86.2256
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays",
+    "title": "2863. Maximum Length of Semi-Decreasing Subarrays",
+    "difficulty": "Medium",
+    "frequency": 85.4399,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 85.4399
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "title": "277. Find the Celebrity",
+    "difficulty": "Medium",
+    "frequency": 85.2247,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 85.2247
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/delete-nodes-and-return-forest",
+    "title": "1110. Delete Nodes And Return Forest",
+    "difficulty": "Medium",
+    "frequency": 85.1129,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 85.1129
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+    "title": "1102. Path With Maximum Minimum Value",
+    "difficulty": "Medium",
+    "frequency": 85.0232,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 85.0232
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+    "title": "2184. Number of Ways to Build Sturdy Brick Wall",
+    "difficulty": "Medium",
+    "frequency": 85.0232,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 85.0232
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart",
+    "title": "3009. Maximum Number of Intersections on the Chart",
+    "difficulty": "Hard",
+    "frequency": 85.0137,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 85.0137
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/simplify-path",
+    "title": "71. Simplify Path",
+    "difficulty": "Medium",
+    "frequency": 84.5112,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 84.5112
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/range-sum-of-bst",
+    "title": "938. Range Sum of BST",
+    "difficulty": "Easy",
+    "frequency": 84.2902,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 84.2902
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/detect-squares",
+    "title": "2013. Detect Squares",
+    "difficulty": "Medium",
+    "frequency": 84.2807,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 84.2807
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/unique-number-of-occurrences",
+    "title": "1207. Unique Number of Occurrences",
+    "difficulty": "Easy",
+    "frequency": 84.1876,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 84.1876
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "title": "341. Flatten Nested List Iterator",
+    "difficulty": "Medium",
+    "frequency": 84.12,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 84.12
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "title": "2034. Stock Price Fluctuation",
+    "difficulty": "Medium",
+    "frequency": 84.1084,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 84.1084
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+    "title": "2086. Minimum Number of Food Buckets to Feed the Hamsters",
+    "difficulty": "Medium",
+    "frequency": 83.9227,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 83.9227
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/group-shifted-strings",
+    "title": "249. Group Shifted Strings",
+    "difficulty": "Medium",
+    "frequency": 83.7843,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 83.7843
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+    "title": "2998. Minimum Number of Operations to Make X and Y Equal",
+    "difficulty": "Medium",
+    "frequency": 83.0166,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 83.0166
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings",
+    "title": "2222. Number of Ways to Select Buildings",
+    "difficulty": "Medium",
+    "frequency": 82.9511,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 82.9511
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/string-compression",
+    "title": "443. String Compression",
+    "difficulty": "Medium",
+    "frequency": 82.7694,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 82.7694
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+    "title": "366. Find Leaves of Binary Tree",
+    "difficulty": "Medium",
+    "frequency": 82.5955,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 82.5955
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "title": "1664. Ways to Make a Fair Array",
+    "difficulty": "Medium",
+    "frequency": 82.4964,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 82.4964
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "title": "25. Reverse Nodes in k-Group",
+    "difficulty": "Hard",
+    "frequency": 82.373,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 82.373
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts",
+    "title": "2357. Make Array Zero by Subtracting Equal Amounts",
+    "difficulty": "Easy",
+    "frequency": 82.3217,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 82.3217
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-good-paths",
+    "title": "2421. Number of Good Paths",
+    "difficulty": "Hard",
+    "frequency": 82.0571,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 82.0571
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/custom-sort-string",
+    "title": "791. Custom Sort String",
+    "difficulty": "Medium",
+    "frequency": 82.0495,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 82.0495
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-valid-clock-times",
+    "title": "2437. Number of Valid Clock Times",
+    "difficulty": "Easy",
+    "frequency": 81.8088,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 81.8088
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
+    "title": "708. Insert into a Sorted Circular Linked List",
+    "difficulty": "Medium",
+    "frequency": 81.3252,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 81.3252
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reorder-data-in-log-files",
+    "title": "937. Reorder Data in Log Files",
+    "difficulty": "Medium",
+    "frequency": 80.5545,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 80.5545
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reorganize-string",
+    "title": "767. Reorganize String",
+    "difficulty": "Medium",
+    "frequency": 80.4855,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 80.4855
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+    "title": "949. Largest Time for Given Digits",
+    "difficulty": "Medium",
+    "frequency": 80.4029,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 80.4029
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii",
+    "title": "768. Max Chunks To Make Sorted II",
+    "difficulty": "Hard",
+    "frequency": 79.9612,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 79.9612
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+    "title": "1027. Longest Arithmetic Subsequence",
+    "difficulty": "Medium",
+    "frequency": 79.8569,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 79.8569
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sentence-screen-fitting",
+    "title": "418. Sentence Screen Fitting",
+    "difficulty": "Medium",
+    "frequency": 79.74,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 79.74
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-swap",
+    "title": "670. Maximum Swap",
+    "difficulty": "Medium",
+    "frequency": 79.5567,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 79.5567
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/last-day-where-you-can-still-cross",
+    "title": "1970. Last Day Where You Can Still Cross",
+    "difficulty": "Hard",
+    "frequency": 79.2487,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 79.2487
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "title": "297. Serialize and Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "frequency": 79.1955,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 79.1955
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sliding-puzzle",
+    "title": "773. Sliding Puzzle",
+    "difficulty": "Hard",
+    "frequency": 78.8812,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 78.8812
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/interval-list-intersections",
+    "title": "986. Interval List Intersections",
+    "difficulty": "Medium",
+    "frequency": 78.7095,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 78.7095
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+    "title": "1239. Maximum Length of a Concatenated String with Unique Characters",
+    "difficulty": "Medium",
+    "frequency": 78.6017,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 78.6017
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+    "title": "2265. Count Nodes Equal to Average of Subtree",
+    "difficulty": "Medium",
+    "frequency": 78.5768,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 78.5768
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-comments",
+    "title": "722. Remove Comments",
+    "difficulty": "Medium",
+    "frequency": 78.5495,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 78.5495
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "title": "642. Design Search Autocomplete System",
+    "difficulty": "Hard",
+    "frequency": 78.5209,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 78.5209
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/powx-n",
+    "title": "50. Pow(x, n)",
+    "difficulty": "Medium",
+    "frequency": 78.261,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 78.261
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+    "title": "1091. Shortest Path in Binary Matrix",
+    "difficulty": "Medium",
+    "frequency": 78.0839,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 78.0839
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/guess-the-word",
+    "title": "843. Guess the Word",
+    "difficulty": "Hard",
+    "frequency": 77.8382,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 77.8382
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-squareful-arrays",
+    "title": "996. Number of Squareful Arrays",
+    "difficulty": "Hard",
+    "frequency": 77.6388,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 77.6388
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/escape-a-large-maze",
+    "title": "1036. Escape a Large Maze",
+    "difficulty": "Hard",
+    "frequency": 77.6388,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 77.6388
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-k-sum-of-an-array",
+    "title": "2386. Find the K-Sum of an Array",
+    "difficulty": "Hard",
+    "frequency": 77.4717,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 77.4717
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/change-the-root-of-a-binary-tree",
+    "title": "1666. Change the Root of a Binary Tree",
+    "difficulty": "Medium",
+    "frequency": 77.3794,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 77.3794
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty",
+    "title": "2842. Count K-Subsequences of a String With Maximum Beauty",
+    "difficulty": "Hard",
+    "frequency": 77.372,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 77.372
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/filling-bookcase-shelves",
+    "title": "1105. Filling Bookcase Shelves",
+    "difficulty": "Medium",
+    "frequency": 77.253,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 77.253
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-palindrome-iii",
+    "title": "1216. Valid Palindrome III",
+    "difficulty": "Hard",
+    "frequency": 77.1472,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 77.1472
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/rle-iterator",
+    "title": "900. RLE Iterator",
+    "difficulty": "Medium",
+    "frequency": 76.7052,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 76.7052
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/word-ladder",
+    "title": "127. Word Ladder",
+    "difficulty": "Hard",
+    "frequency": 76.5581,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 76.5581
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
+    "title": "719. Find K-th Smallest Pair Distance",
+    "difficulty": "Hard",
+    "frequency": 76.3802,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 76.3802
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/soup-servings",
+    "title": "808. Soup Servings",
+    "difficulty": "Medium",
+    "frequency": 76.1987,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 76.1987
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "title": "759. Employee Free Time",
+    "difficulty": "Hard",
+    "frequency": 76.0743,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 76.0743
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "title": "1610. Maximum Number of Visible Points",
+    "difficulty": "Hard",
+    "frequency": 76.0089,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 76.0089
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/water-and-jug-problem",
+    "title": "365. Water and Jug Problem",
+    "difficulty": "Medium",
+    "frequency": 75.7683,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 75.7683
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating",
+    "title": "1864. Minimum Number of Swaps to Make the Binary String Alternating",
+    "difficulty": "Medium",
+    "frequency": 75.6875,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 75.6875
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/shortest-bridge",
+    "title": "934. Shortest Bridge",
+    "difficulty": "Medium",
+    "frequency": 75.6632,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 75.6632
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "title": "301. Remove Invalid Parentheses",
+    "difficulty": "Hard",
+    "frequency": 75.4138,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 75.4138
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-number",
+    "title": "65. Valid Number",
+    "difficulty": "Hard",
+    "frequency": 75.4005,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 75.4005
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful",
+    "title": "1578. Minimum Time to Make Rope Colorful",
+    "difficulty": "Medium",
+    "frequency": 75.3724,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 75.3724
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/making-a-large-island",
+    "title": "827. Making A Large Island",
+    "difficulty": "Hard",
+    "frequency": 75.176,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 75.176
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "title": "560. Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "frequency": 75.1105,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 75.1105
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-peak-element",
+    "title": "162. Find Peak Element",
+    "difficulty": "Medium",
+    "frequency": 75.0663,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 75.0663
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+    "title": "129. Sum Root to Leaf Numbers",
+    "difficulty": "Medium",
+    "frequency": 74.8889,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 74.8889
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-score-of-spliced-array",
+    "title": "2321. Maximum Score Of Spliced Array",
+    "difficulty": "Hard",
+    "frequency": 74.589,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 74.589
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "title": "317. Shortest Distance from All Buildings",
+    "difficulty": "Hard",
+    "frequency": 74.4985,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 74.4985
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-the-number-of-k-big-indices",
+    "title": "2519. Count the Number of K-Big Indices",
+    "difficulty": "Hard",
+    "frequency": 74.4641,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 74.4641
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/inorder-successor-in-bst-ii",
+    "title": "510. Inorder Successor in BST II",
+    "difficulty": "Medium",
+    "frequency": 74.363,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 74.363
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value",
+    "title": "270. Closest Binary Search Tree Value",
+    "difficulty": "Easy",
+    "frequency": 74.0378,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 74.0378
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sparse-matrix-multiplication",
+    "title": "311. Sparse Matrix Multiplication",
+    "difficulty": "Medium",
+    "frequency": 73.9948,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 73.9948
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "title": "1366. Rank Teams by Votes",
+    "difficulty": "Medium",
+    "frequency": 73.921,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 73.921
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/diagonal-traverse",
+    "title": "498. Diagonal Traverse",
+    "difficulty": "Medium",
+    "frequency": 73.2868,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 73.2868
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+    "title": "636. Exclusive Time of Functions",
+    "difficulty": "Medium",
+    "frequency": 73.2583,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 73.2583
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/random-pick-index",
+    "title": "398. Random Pick Index",
+    "difficulty": "Medium",
+    "frequency": 73.2555,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 73.2555
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/toeplitz-matrix",
+    "title": "766. Toeplitz Matrix",
+    "difficulty": "Easy",
+    "frequency": 73.2207,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 73.2207
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/restore-ip-addresses",
+    "title": "93. Restore IP Addresses",
+    "difficulty": "Medium",
+    "frequency": 73.1689,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 73.1689
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximal-rectangle",
+    "title": "85. Maximal Rectangle",
+    "difficulty": "Hard",
+    "frequency": 73.0952,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 73.0952
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-frequency-stack",
+    "title": "895. Maximum Frequency Stack",
+    "difficulty": "Hard",
+    "frequency": 73.0276,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 73.0276
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-and-replace-in-string",
+    "title": "833. Find And Replace in String",
+    "difficulty": "Medium",
+    "frequency": 72.9645,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 72.9645
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+    "title": "2316. Count Unreachable Pairs of Nodes in an Undirected Graph",
+    "difficulty": "Medium",
+    "frequency": 72.913,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 72.913
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-triangular-sum-of-an-array",
+    "title": "2221. Find Triangular Sum of an Array",
+    "difficulty": "Medium",
+    "frequency": 72.8244,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 72.8244
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-plus-sign",
+    "title": "764. Largest Plus Sign",
+    "difficulty": "Medium",
+    "frequency": 72.3601,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 72.3601
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/island-perimeter",
+    "title": "463. Island Perimeter",
+    "difficulty": "Easy",
+    "frequency": 72.3129,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 72.3129
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/employee-importance",
+    "title": "690. Employee Importance",
+    "difficulty": "Medium",
+    "frequency": 72.0449,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 72.0449
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function",
+    "title": "1628. Design an Expression Tree With Evaluate Function",
+    "difficulty": "Medium",
+    "frequency": 71.8284,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 71.8284
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+    "title": "963. Minimum Area Rectangle II",
+    "difficulty": "Medium",
+    "frequency": 71.8204,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 71.8204
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/fair-distribution-of-cookies",
+    "title": "2305. Fair Distribution of Cookies",
+    "difficulty": "Medium",
+    "frequency": 71.6008,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 71.6008
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+    "title": "543. Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "frequency": 71.5734,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 71.5734
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-closed-islands",
+    "title": "1254. Number of Closed Islands",
+    "difficulty": "Medium",
+    "frequency": 71.4534,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 71.4534
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/task-scheduler-ii",
+    "title": "2365. Task Scheduler II",
+    "difficulty": "Medium",
+    "frequency": 71.2906,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 71.2906
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/missing-ranges",
+    "title": "163. Missing Ranges",
+    "difficulty": "Easy",
+    "frequency": 71.0438,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 71.0438
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "title": "158. Read N Characters Given read4 II - Call Multiple Times",
+    "difficulty": "Hard",
+    "frequency": 71.0041,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 71.0041
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/peeking-iterator",
+    "title": "284. Peeking Iterator",
+    "difficulty": "Medium",
+    "frequency": 71.0041,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 71.0041
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays",
+    "title": "1868. Product of Two Run-Length Encoded Arrays",
+    "difficulty": "Medium",
+    "frequency": 70.9429,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 70.9429
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/132-pattern",
+    "title": "456. 132 Pattern",
+    "difficulty": "Medium",
+    "frequency": 70.8973,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 70.8973
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/rotate-array",
+    "title": "189. Rotate Array",
+    "difficulty": "Medium",
+    "frequency": 70.7768,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 70.7768
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty",
+    "title": "2870. Minimum Number of Operations to Make Array Empty",
+    "difficulty": "Medium",
+    "frequency": 70.4378,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 70.4378
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-happy-string",
+    "title": "1405. Longest Happy String",
+    "difficulty": "Medium",
+    "frequency": 70.3723,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 70.3723
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "title": "2592. Maximize Greatness of an Array",
+    "difficulty": "Medium",
+    "frequency": 70.3431,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 70.3431
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
+    "title": "423. Reconstruct Original Digits from English",
+    "difficulty": "Medium",
+    "frequency": 70.1176,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 70.1176
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/word-subsets",
+    "title": "916. Word Subsets",
+    "difficulty": "Medium",
+    "frequency": 69.9917,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 69.9917
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/basic-calculator",
+    "title": "224. Basic Calculator",
+    "difficulty": "Hard",
+    "frequency": 69.9183,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 69.9183
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/all-possible-full-binary-trees",
+    "title": "894. All Possible Full Binary Trees",
+    "difficulty": "Medium",
+    "frequency": 69.8703,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 69.8703
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "title": "1197. Minimum Knight Moves",
+    "difficulty": "Medium",
+    "frequency": 69.6635,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 69.6635
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/continuous-subarray-sum",
+    "title": "523. Continuous Subarray Sum",
+    "difficulty": "Medium",
+    "frequency": 69.6237,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 69.6237
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimize-deviation-in-array",
+    "title": "1675. Minimize Deviation in Array",
+    "difficulty": "Hard",
+    "frequency": 69.5124,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 69.5124
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+    "title": "2484. Count Palindromic Subsequences",
+    "difficulty": "Hard",
+    "frequency": 69.3491,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 69.3491
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+    "title": "2007. Find Original Array From Doubled Array",
+    "difficulty": "Medium",
+    "frequency": 69.2578,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 69.2578
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/meeting-scheduler",
+    "title": "1229. Meeting Scheduler",
+    "difficulty": "Medium",
+    "frequency": 69.0493,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 69.0493
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "title": "1639. Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "Hard",
+    "frequency": 69.0493,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 69.0493
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/house-robber",
+    "title": "198. House Robber",
+    "difficulty": "Medium",
+    "frequency": 68.9314,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 68.9314
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-fertile-pyramids-in-a-land",
+    "title": "2088. Count Fertile Pyramids in a Land",
+    "difficulty": "Hard",
+    "frequency": 68.884,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 68.884
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/single-threaded-cpu",
+    "title": "1834. Single-Threaded CPU",
+    "difficulty": "Medium",
+    "frequency": 68.8259,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 68.8259
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-memory-allocator",
+    "title": "2502. Design Memory Allocator",
+    "difficulty": "Medium",
+    "frequency": 68.7893,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 68.7893
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+    "title": "1424. Diagonal Traverse II",
+    "difficulty": "Medium",
+    "frequency": 68.7513,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 68.7513
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-integer",
+    "title": "7. Reverse Integer",
+    "difficulty": "Medium",
+    "frequency": 68.6875,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 68.6875
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "title": "987. Vertical Order Traversal of a Binary Tree",
+    "difficulty": "Hard",
+    "frequency": 68.5507,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 68.5507
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/next-closest-time",
+    "title": "681. Next Closest Time",
+    "difficulty": "Medium",
+    "frequency": 68.5212,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 68.5212
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-palindrome",
+    "title": "125. Valid Palindrome",
+    "difficulty": "Easy",
+    "frequency": 68.3949,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 68.3949
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sequentially-ordinal-rank-tracker",
+    "title": "2102. Sequentially Ordinal Rank Tracker",
+    "difficulty": "Hard",
+    "frequency": 68.3185,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 68.3185
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/palindrome-linked-list",
+    "title": "234. Palindrome Linked List",
+    "difficulty": "Easy",
+    "frequency": 68.228,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 68.228
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/car-pooling",
+    "title": "1094. Car Pooling",
+    "difficulty": "Medium",
+    "frequency": 68.0615,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 68.0615
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "title": "21. Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "frequency": 68.0329,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 68.0329
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+    "title": "1352. Product of the Last K Numbers",
+    "difficulty": "Medium",
+    "frequency": 67.9794,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 67.9794
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments",
+    "title": "2825. Make String a Subsequence Using Cyclic Increments",
+    "difficulty": "Medium",
+    "frequency": 67.9286,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 67.9286
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+    "title": "1803. Count Pairs With XOR in a Range",
+    "difficulty": "Hard",
+    "frequency": 67.9064,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 67.9064
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/add-strings",
+    "title": "415. Add Strings",
+    "difficulty": "Easy",
+    "frequency": 67.6182,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 67.6182
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-file-system",
+    "title": "1166. Design File System",
+    "difficulty": "Medium",
+    "frequency": 67.3555,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 67.3555
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-product-difference-between-two-pairs",
+    "title": "1913. Maximum Product Difference Between Two Pairs",
+    "difficulty": "Easy",
+    "frequency": 67.3078,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 67.3078
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/total-appeal-of-a-string",
+    "title": "2262. Total Appeal of A String",
+    "difficulty": "Hard",
+    "frequency": 67.2059,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 67.2059
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/rotate-string",
+    "title": "796. Rotate String",
+    "difficulty": "Easy",
+    "frequency": 67.1723,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 67.1723
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/word-search",
+    "title": "79. Word Search",
+    "difficulty": "Medium",
+    "frequency": 67.1327,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 67.1327
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-phone-directory",
+    "title": "379. Design Phone Directory",
+    "difficulty": "Medium",
+    "frequency": 67.1046,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 67.1046
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "title": "316. Remove Duplicate Letters",
+    "difficulty": "Medium",
+    "frequency": 67.0677,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 67.0677
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/contains-duplicate",
+    "title": "217. Contains Duplicate",
+    "difficulty": "Easy",
+    "frequency": 67.0119,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 67.0119
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-linked-list",
+    "title": "206. Reverse Linked List",
+    "difficulty": "Easy",
+    "frequency": 66.9669,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 66.9669
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-different-palindromic-subsequences",
+    "title": "730. Count Different Palindromic Subsequences",
+    "difficulty": "Hard",
+    "frequency": 66.944,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 66.944
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/closest-dessert-cost",
+    "title": "1774. Closest Dessert Cost",
+    "difficulty": "Medium",
+    "frequency": 66.944,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 66.944
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks",
+    "title": "2244. Minimum Rounds to Complete All Tasks",
+    "difficulty": "Medium",
+    "frequency": 66.9425,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 66.9425
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/matchsticks-to-square",
+    "title": "473. Matchsticks to Square",
+    "difficulty": "Medium",
+    "frequency": 66.9304,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 66.9304
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array",
+    "title": "2366. Minimum Replacements to Sort the Array",
+    "difficulty": "Hard",
+    "frequency": 66.7919,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 66.7919
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/accounts-merge",
+    "title": "721. Accounts Merge",
+    "difficulty": "Medium",
+    "frequency": 66.6698,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 66.6698
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/split-array-largest-sum",
+    "title": "410. Split Array Largest Sum",
+    "difficulty": "Hard",
+    "frequency": 66.6225,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 66.6225
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-string",
+    "title": "536. Construct Binary Tree from String",
+    "difficulty": "Medium",
+    "frequency": 66.6155,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 66.6155
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-number-of-accepted-invitations",
+    "title": "1820. Maximum Number of Accepted Invitations",
+    "difficulty": "Medium",
+    "frequency": 66.3191,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 66.3191
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes",
+    "title": "2973. Find Number of Coins to Place in Tree Nodes",
+    "difficulty": "Hard",
+    "frequency": 66.3191,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 66.3191
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/cinema-seat-allocation",
+    "title": "1386. Cinema Seat Allocation",
+    "difficulty": "Medium",
+    "frequency": 66.2065,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 66.2065
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+    "title": "1359. Count All Valid Pickup and Delivery Options",
+    "difficulty": "Hard",
+    "frequency": 66.1852,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 66.1852
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/student-attendance-record-ii",
+    "title": "552. Student Attendance Record II",
+    "difficulty": "Hard",
+    "frequency": 66.1584,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 66.1584
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/verifying-an-alien-dictionary",
+    "title": "953. Verifying an Alien Dictionary",
+    "difficulty": "Easy",
+    "frequency": 65.8314,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 65.8314
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/gas-station",
+    "title": "134. Gas Station",
+    "difficulty": "Medium",
+    "frequency": 65.8085,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 65.8085
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/design-most-recently-used-queue",
+    "title": "1756. Design Most Recently Used Queue",
+    "difficulty": "Medium",
+    "frequency": 65.7872,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 65.7872
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/shuffle-an-array",
+    "title": "384. Shuffle an Array",
+    "difficulty": "Medium",
+    "frequency": 65.7788,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 65.7788
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/add-bold-tag-in-string",
+    "title": "616. Add Bold Tag in String",
+    "difficulty": "Medium",
+    "frequency": 65.3536,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 65.3536
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+    "title": "2275. Largest Combination With Bitwise AND Greater Than Zero",
+    "difficulty": "Medium",
+    "frequency": 65.3536,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 65.3536
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/rabbits-in-forest",
+    "title": "781. Rabbits in Forest",
+    "difficulty": "Medium",
+    "frequency": 65.2733,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 65.2733
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/poor-pigs",
+    "title": "458. Poor Pigs",
+    "difficulty": "Hard",
+    "frequency": 65.2167,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 65.2167
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-word-square",
+    "title": "422. Valid Word Square",
+    "difficulty": "Easy",
+    "frequency": 65.1208,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 65.1208
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/validate-ip-address",
+    "title": "468. Validate IP Address",
+    "difficulty": "Medium",
+    "frequency": 65.1079,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 65.1079
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "title": "2385. Amount of Time for Binary Tree to Be Infected",
+    "difficulty": "Medium",
+    "frequency": 65.0808,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 65.0808
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "title": "424. Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "frequency": 64.9182,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 64.9182
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/move-zeroes",
+    "title": "283. Move Zeroes",
+    "difficulty": "Easy",
+    "frequency": 64.8878,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 64.8878
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+    "title": "325. Maximum Size Subarray Sum Equals k",
+    "difficulty": "Medium",
+    "frequency": 64.8667,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 64.8667
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/range-addition",
+    "title": "370. Range Addition",
+    "difficulty": "Medium",
+    "frequency": 64.8531,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 64.8531
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings",
+    "title": "2060. Check if an Original String Exists Given Two Encoded Strings",
+    "difficulty": "Hard",
+    "frequency": 64.8146,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 64.8146
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-search",
+    "title": "704. Binary Search",
+    "difficulty": "Easy",
+    "frequency": 64.7297,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.7297
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii",
+    "title": "3040. Maximum Number of Operations With the Same Score II",
+    "difficulty": "Medium",
+    "frequency": 64.6732,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.6732
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/excel-sheet-column-title",
+    "title": "168. Excel Sheet Column Title",
+    "difficulty": "Easy",
+    "frequency": 64.6592,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 64.6592
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+    "title": "1567. Maximum Length of Subarray With Positive Product",
+    "difficulty": "Medium",
+    "frequency": 64.6088,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 64.6088
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-distinct-islands-ii",
+    "title": "711. Number of Distinct Islands II",
+    "difficulty": "Hard",
+    "frequency": 64.5873,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 64.5873
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/friends-of-appropriate-ages",
+    "title": "825. Friends Of Appropriate Ages",
+    "difficulty": "Medium",
+    "frequency": 64.5873,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 64.5873
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-domino-rotations-for-equal-row",
+    "title": "1007. Minimum Domino Rotations For Equal Row",
+    "difficulty": "Medium",
+    "frequency": 64.5852,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 64.5852
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-anagram",
+    "title": "242. Valid Anagram",
+    "difficulty": "Easy",
+    "frequency": 64.5264,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 64.5264
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword",
+    "title": "2018. Check if Word Can Be Placed In Crossword",
+    "difficulty": "Medium",
+    "frequency": 64.427,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 64.427
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "title": "2115. Find All Possible Recipes from Given Supplies",
+    "difficulty": "Medium",
+    "frequency": 64.2584,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 64.2584
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-root-of-n-ary-tree",
+    "title": "1506. Find Root of N-Ary Tree",
+    "difficulty": "Medium",
+    "frequency": 64.0334,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 64.0334
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/word-abbreviation",
+    "title": "527. Word Abbreviation",
+    "difficulty": "Hard",
+    "frequency": 64.0251,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 64.0251
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-special-integers",
+    "title": "2376. Count Special Integers",
+    "difficulty": "Hard",
+    "frequency": 64.0251,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 64.0251
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-k-digits",
+    "title": "402. Remove K Digits",
+    "difficulty": "Medium",
+    "frequency": 64.0148,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 64.0148
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/image-overlap",
+    "title": "835. Image Overlap",
+    "difficulty": "Medium",
+    "frequency": 63.9432,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 63.9432
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+    "title": "1775. Equal Sum Arrays With Minimum Number of Operations",
+    "difficulty": "Medium",
+    "frequency": 63.9432,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 63.9432
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/first-bad-version",
+    "title": "278. First Bad Version",
+    "difficulty": "Easy",
+    "frequency": 63.8966,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 63.8966
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-average-difference",
+    "title": "2256. Minimum Average Difference",
+    "difficulty": "Medium",
+    "frequency": 63.8362,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.8362
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "title": "632. Smallest Range Covering Elements from K Lists",
+    "difficulty": "Hard",
+    "frequency": 63.723,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.723
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+    "title": "1004. Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "frequency": 63.6752,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 63.6752
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/print-binary-tree",
+    "title": "655. Print Binary Tree",
+    "difficulty": "Medium",
+    "frequency": 63.6126,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 63.6126
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-string-chain",
+    "title": "1048. Longest String Chain",
+    "difficulty": "Medium",
+    "frequency": 63.6061,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 63.6061
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-time-to-finish-the-race",
+    "title": "2188. Minimum Time to Finish the Race",
+    "difficulty": "Hard",
+    "frequency": 63.51,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 63.51
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/linked-list-random-node",
+    "title": "382. Linked List Random Node",
+    "difficulty": "Medium",
+    "frequency": 63.477,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 63.477
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "title": "266. Palindrome Permutation",
+    "difficulty": "Easy",
+    "frequency": 63.4769,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 63.4769
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced",
+    "title": "1653. Minimum Deletions to Make String Balanced",
+    "difficulty": "Medium",
+    "frequency": 63.4565,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 63.4565
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string",
+    "title": "828. Count Unique Characters of All Substrings of a Given String",
+    "difficulty": "Hard",
+    "frequency": 63.2488,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 63.2488
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/palindrome-number",
+    "title": "9. Palindrome Number",
+    "difficulty": "Easy",
+    "frequency": 63.1694,
+    "companies": [
+      {
+        "company": "apple",
+        "frequency": 63.1694
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-repeating-substring",
+    "title": "1062. Longest Repeating Substring",
+    "difficulty": "Medium",
+    "frequency": 63.0121,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 63.0121
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/contiguous-array",
+    "title": "525. Contiguous Array",
+    "difficulty": "Medium",
+    "frequency": 62.9753,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 62.9753
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "title": "103. Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "frequency": 62.9514,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 62.9514
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/next-greater-element-iii",
+    "title": "556. Next Greater Element III",
+    "difficulty": "Medium",
+    "frequency": 62.8566,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.8566
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "title": "173. Binary Search Tree Iterator",
+    "difficulty": "Medium",
+    "frequency": 62.6804,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 62.6804
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "title": "128. Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "frequency": 62.68,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 62.68
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "title": "1047. Remove All Adjacent Duplicates In String",
+    "difficulty": "Easy",
+    "frequency": 62.6424,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 62.6424
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/best-meeting-point",
+    "title": "296. Best Meeting Point",
+    "difficulty": "Hard",
+    "frequency": 62.559,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 62.559
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "title": "417. Pacific Atlantic Water Flow",
+    "difficulty": "Medium",
+    "frequency": 62.4365,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 62.4365
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/break-a-palindrome",
+    "title": "1328. Break a Palindrome",
+    "difficulty": "Medium",
+    "frequency": 62.3972,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 62.3972
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/first-unique-number",
+    "title": "1429. First Unique Number",
+    "difficulty": "Medium",
+    "frequency": 62.3757,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 62.3757
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minesweeper",
+    "title": "529. Minesweeper",
+    "difficulty": "Medium",
+    "frequency": 62.3451,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 62.3451
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array",
+    "title": "2369. Check if There is a Valid Partition For The Array",
+    "difficulty": "Medium",
+    "frequency": 62.3081,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 62.3081
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "title": "3013. Divide an Array Into Subarrays With Minimum Cost II",
+    "difficulty": "Hard",
+    "frequency": 62.2682,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 62.2682
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
+    "title": "689. Maximum Sum of 3 Non-Overlapping Subarrays",
+    "difficulty": "Hard",
+    "frequency": 62.2498,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 62.2498
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
+    "title": "1304. Find N Unique Integers Sum up to Zero",
+    "difficulty": "Easy",
+    "frequency": 62.2367,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 62.2367
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/strobogrammatic-number-ii",
+    "title": "247. Strobogrammatic Number II",
+    "difficulty": "Medium",
+    "frequency": 62.0561,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 62.0561
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/combination-sum",
+    "title": "39. Combination Sum",
+    "difficulty": "Medium",
+    "frequency": 62.0546,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 62.0546
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/numbers-with-same-consecutive-differences",
+    "title": "967. Numbers With Same Consecutive Differences",
+    "difficulty": "Medium",
+    "frequency": 62.0083,
+    "companies": [
+      {
+        "company": "microsoft",
+        "frequency": 62.0083
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/apply-discount-to-prices",
+    "title": "2288. Apply Discount to Prices",
+    "difficulty": "Medium",
+    "frequency": 61.7715,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.7715
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/smallest-sufficient-team",
+    "title": "1125. Smallest Sufficient Team",
+    "difficulty": "Hard",
+    "frequency": 61.6496,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 61.6496
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/amount-of-new-area-painted-each-day",
+    "title": "2158. Amount of New Area Painted Each Day",
+    "difficulty": "Hard",
+    "frequency": 61.6496,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 61.6496
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+    "title": "1063. Number of Valid Subarrays",
+    "difficulty": "Hard",
+    "frequency": 61.3897,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 61.3897
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/verbal-arithmetic-puzzle",
+    "title": "1307. Verbal Arithmetic Puzzle",
+    "difficulty": "Hard",
+    "frequency": 61.3356,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 61.3356
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time",
+    "title": "2162. Minimum Cost to Set Cooking Time",
+    "difficulty": "Medium",
+    "frequency": 61.3356,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 61.3356
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/finding-the-number-of-visible-mountains",
+    "title": "2345. Finding the Number of Visible Mountains",
+    "difficulty": "Medium",
+    "frequency": 61.233,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 61.233
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "title": "150. Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "frequency": 60.6297,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 60.6297
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/meeting-rooms",
+    "title": "252. Meeting Rooms",
+    "difficulty": "Easy",
+    "frequency": 60.4478,
+    "companies": [
+      {
+        "company": "google",
+        "frequency": 60.4478
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "title": "387. First Unique Character in a String",
+    "difficulty": "Easy",
+    "frequency": 60.2676,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 60.2676
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sliding-window-median",
+    "title": "480. Sliding Window Median",
+    "difficulty": "Hard",
+    "frequency": 60.1601,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 60.1601
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-provinces",
+    "title": "547. Number of Provinces",
+    "difficulty": "Medium",
+    "frequency": 60.0094,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 60.0094
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reveal-cards-in-increasing-order",
+    "title": "950. Reveal Cards In Increasing Order",
+    "difficulty": "Medium",
+    "frequency": 59.9777,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 59.9777
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/jump-game",
+    "title": "55. Jump Game",
+    "difficulty": "Medium",
+    "frequency": 59.9419,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 59.9419
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/ipo",
+    "title": "502. IPO",
+    "difficulty": "Hard",
+    "frequency": 59.8292,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 59.8292
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/kth-missing-positive-number",
+    "title": "1539. Kth Missing Positive Number",
+    "difficulty": "Easy",
+    "frequency": 59.7269,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 59.7269
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-strings-alternately",
+    "title": "1768. Merge Strings Alternately",
+    "difficulty": "Easy",
+    "frequency": 59.7017,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 59.7017
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/optimal-partition-of-string",
+    "title": "2405. Optimal Partition of String",
+    "difficulty": "Medium",
+    "frequency": 59.6679,
+    "companies": [
+      {
+        "company": "amazon",
+        "frequency": 59.6679
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/stream-of-characters",
+    "title": "1032. Stream of Characters",
+    "difficulty": "Hard",
+    "frequency": 59.6281,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 59.6281
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/double-a-number-represented-as-a-linked-list",
+    "title": "2816. Double a Number Represented as a Linked List",
+    "difficulty": "Medium",
+    "frequency": 59.146,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 59.146
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-window-substring",
+    "title": "76. Minimum Window Substring",
+    "difficulty": "Hard",
+    "frequency": 59.0813,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 59.0813
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree",
+    "title": "1443. Minimum Time to Collect All Apples in a Tree",
+    "difficulty": "Medium",
+    "frequency": 58.6285,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 58.6285
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+    "title": "1492. The kth Factor of n",
+    "difficulty": "Medium",
+    "frequency": 58.4709,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 58.4709
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k",
+    "title": "3171. Find Subarray With Bitwise OR Closest to K",
+    "difficulty": "Hard",
+    "frequency": 58.312,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 58.312
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii",
+    "title": "1644. Lowest Common Ancestor of a Binary Tree II",
+    "difficulty": "Medium",
+    "frequency": 58.0429,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 58.0429
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/missing-element-in-sorted-array",
+    "title": "1060. Missing Element in Sorted Array",
+    "difficulty": "Medium",
+    "frequency": 57.8044,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 57.8044
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
+    "title": "958. Check Completeness of a Binary Tree",
+    "difficulty": "Medium",
+    "frequency": 57.7154,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 57.7154
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "title": "34. Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "frequency": 57.5697,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 57.5697
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+    "title": "2433. Find The Original Array of Prefix Xor",
+    "difficulty": "Medium",
+    "frequency": 57.4955,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 57.4955
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "title": "269. Alien Dictionary",
+    "difficulty": "Hard",
+    "frequency": 57.4449,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 57.4449
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string",
+    "title": "1541. Minimum Insertions to Balance a Parentheses String",
+    "difficulty": "Medium",
+    "frequency": 57.374,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 57.374
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+    "title": "2016. Maximum Difference Between Increasing Elements",
+    "difficulty": "Easy",
+    "frequency": 57.3303,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 57.3303
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-k-closest-elements",
+    "title": "658. Find K Closest Elements",
+    "difficulty": "Medium",
+    "frequency": 56.5747,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 56.5747
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves",
+    "title": "1123. Lowest Common Ancestor of Deepest Leaves",
+    "difficulty": "Medium",
+    "frequency": 56.0149,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 56.0149
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/the-maze",
+    "title": "490. The Maze",
+    "difficulty": "Medium",
+    "frequency": 55.8485,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 55.8485
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/russian-doll-envelopes",
+    "title": "354. Russian Doll Envelopes",
+    "difficulty": "Hard",
+    "frequency": 55.8413,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 55.8413
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "title": "1010. Pairs of Songs With Total Durations Divisible by 60",
+    "difficulty": "Medium",
+    "frequency": 55.5905,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 55.5905
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/subsets",
+    "title": "78. Subsets",
+    "difficulty": "Medium",
+    "frequency": 55.2231,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 55.2231
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/rank-transform-of-an-array",
+    "title": "1331. Rank Transform of an Array",
+    "difficulty": "Easy",
+    "frequency": 55.1145,
+    "companies": [
+      {
+        "company": "meta",
+        "frequency": 55.1145
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k",
+    "title": "2461. Maximum Sum of Distinct Subarrays With Length K",
+    "difficulty": "Medium",
+    "frequency": 53.8968,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 53.8968
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "title": "1011. Capacity To Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "frequency": 53.5033,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 53.5033
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "title": "261. Graph Valid Tree",
+    "difficulty": "Medium",
+    "frequency": 51.2642,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 51.2642
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+    "title": "241. Different Ways to Add Parentheses",
+    "difficulty": "Medium",
+    "frequency": 50.9003,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 50.9003
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/predict-the-winner",
+    "title": "486. Predict the Winner",
+    "difficulty": "Medium",
+    "frequency": 50.2734,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 50.2734
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/decode-ways",
+    "title": "91. Decode Ways",
+    "difficulty": "Medium",
+    "frequency": 49.0781,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 49.0781
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/asteroid-collision",
+    "title": "735. Asteroid Collision",
+    "difficulty": "Medium",
+    "frequency": 48.3156,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 48.3156
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/count-binary-substrings",
+    "title": "696. Count Binary Substrings",
+    "difficulty": "Easy",
+    "frequency": 47.7837,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 47.7837
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/integer-to-roman",
+    "title": "12. Integer to Roman",
+    "difficulty": "Medium",
+    "frequency": 46.8327,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 46.8327
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "title": "208. Implement Trie (Prefix Tree)",
+    "difficulty": "Medium",
+    "frequency": 44.9187,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 44.9187
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-bits",
+    "title": "190. Reverse Bits",
+    "difficulty": "Easy",
+    "frequency": 43.8231,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 43.8231
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+    "title": "1319. Number of Operations to Make Network Connected",
+    "difficulty": "Medium",
+    "frequency": 43.6935,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 43.6935
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-pivot-index",
+    "title": "724. Find Pivot Index",
+    "difficulty": "Easy",
+    "frequency": 43.1655,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 43.1655
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "title": "2035. Partition Array Into Two Arrays to Minimize Sum Difference",
+    "difficulty": "Hard",
+    "frequency": 43.1163,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 43.1163
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-in-between-linked-lists",
+    "title": "1669. Merge In Between Linked Lists",
+    "difficulty": "Medium",
+    "frequency": 43.0704,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 43.0704
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "title": "540. Single Element in a Sorted Array",
+    "difficulty": "Medium",
+    "frequency": 43.0209,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 43.0209
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "title": "188. Best Time to Buy and Sell Stock IV",
+    "difficulty": "Hard",
+    "frequency": 40.9739,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 40.9739
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/max-area-of-island",
+    "title": "695. Max Area of Island",
+    "difficulty": "Medium",
+    "frequency": 40.8558,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 40.8558
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "title": "160. Intersection of Two Linked Lists",
+    "difficulty": "Easy",
+    "frequency": 39.6482,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 39.6482
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/missing-number",
+    "title": "268. Missing Number",
+    "difficulty": "Easy",
+    "frequency": 37.8928,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 37.8928
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "title": "451. Sort Characters By Frequency",
+    "difficulty": "Medium",
+    "frequency": 37.1838,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 37.1838
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/fibonacci-number",
+    "title": "509. Fibonacci Number",
+    "difficulty": "Easy",
+    "frequency": 34.9018,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 34.9018
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "title": "92. Reverse Linked List II",
+    "difficulty": "Medium",
+    "frequency": 34.7117,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 34.7117
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-duplicate-number",
+    "title": "287. Find the Duplicate Number",
+    "difficulty": "Medium",
+    "frequency": 33.8089,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 33.8089
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "title": "349. Intersection of Two Arrays",
+    "difficulty": "Easy",
+    "frequency": 33.3503,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 33.3503
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "title": "557. Reverse Words in a String III",
+    "difficulty": "Easy",
+    "frequency": 32.816,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 32.816
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "title": "1290. Convert Binary Number in a Linked List to Integer",
+    "difficulty": "Easy",
+    "frequency": 31.6281,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 31.6281
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "title": "98. Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "frequency": 31.4108,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 31.4108
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/h-index",
+    "title": "274. H-Index",
+    "difficulty": "Medium",
+    "frequency": 31.3354,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 31.3354
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/triangle",
+    "title": "120. Triangle",
+    "difficulty": "Medium",
+    "frequency": 31.0955,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 31.0955
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/wildcard-matching",
+    "title": "44. Wildcard Matching",
+    "difficulty": "Hard",
+    "frequency": 30.7055,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 30.7055
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/task-scheduler",
+    "title": "621. Task Scheduler",
+    "difficulty": "Medium",
+    "frequency": 30.5738,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 30.5738
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+    "title": "628. Maximum Product of Three Numbers",
+    "difficulty": "Easy",
+    "frequency": 28.6511,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 28.6511
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/distinct-subsequences",
+    "title": "115. Distinct Subsequences",
+    "difficulty": "Hard",
+    "frequency": 28.5067,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 28.5067
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "title": "435. Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "frequency": 28.0736,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 28.0736
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/majority-element-ii",
+    "title": "229. Majority Element II",
+    "difficulty": "Medium",
+    "frequency": 25.6703,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 25.6703
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/climbing-stairs",
+    "title": "70. Climbing Stairs",
+    "difficulty": "Easy",
+    "frequency": 25.353,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 25.353
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "title": "105. Construct Binary Tree from Preorder and Inorder Traversal",
+    "difficulty": "Medium",
+    "frequency": 23.8171,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 23.8171
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/majority-element",
+    "title": "169. Majority Element",
+    "difficulty": "Easy",
+    "frequency": 22.1864,
+    "companies": [
+      {
+        "company": "nvidia",
+        "frequency": 22.1864
+      }
+    ]
+  },
+  {
+    "link": "https://leetcode.com/problems/isomorphic-strings",
+    "title": "205. Isomorphic Strings",
+    "difficulty": "Easy",
+    "frequency": 20.0943,
+    "companies": [
+      {
+        "company": "salesforce",
+        "frequency": 20.0943
+      }
+    ]
+  }
+]

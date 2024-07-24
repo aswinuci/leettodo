@@ -1,0 +1,702 @@
+[
+    {
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "title": "273. Integer to English Words",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company",
+        "title": "2004. The Number of Seniors and Juniors to Join the Company",
+        "difficulty": "Hard",
+        "frequency": 97.7604,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/lru-cache",
+        "title": "146. LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 95.5208,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/two-sum",
+        "title": "1. Two Sum",
+        "difficulty": "Easy",
+        "frequency": 93.9204,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array",
+        "title": "1802. Maximum Value at a Given Index in a Bounded Array",
+        "difficulty": "Medium",
+        "frequency": 91.756,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "title": "13. Roman to Integer",
+        "difficulty": "Easy",
+        "frequency": 90.4347,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-hit-counter",
+        "title": "362. Design Hit Counter",
+        "difficulty": "Medium",
+        "frequency": 88.1951,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/basic-calculator-iii",
+        "title": "772. Basic Calculator III",
+        "difficulty": "Hard",
+        "frequency": 86.6643,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "title": "14. Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 84.4247,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/unique-number-of-occurrences",
+        "title": "1207. Unique Number of Occurrences",
+        "difficulty": "Easy",
+        "frequency": 84.1876,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+        "title": "341. Flatten Nested List Iterator",
+        "difficulty": "Medium",
+        "frequency": 84.12,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/string-compression",
+        "title": "443. String Compression",
+        "difficulty": "Medium",
+        "frequency": 82.7694,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "title": "36. Valid Sudoku",
+        "difficulty": "Medium",
+        "frequency": 81.7786,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "title": "3. Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 81.099,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "title": "2. Add Two Numbers",
+        "difficulty": "Medium",
+        "frequency": 81.0983,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-tic-tac-toe",
+        "title": "348. Design Tic-Tac-Toe",
+        "difficulty": "Medium",
+        "frequency": 80.3515,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii",
+        "title": "768. Max Chunks To Make Sorted II",
+        "difficulty": "Hard",
+        "frequency": 79.9612,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/create-hello-world-function",
+        "title": "2667. Create Hello World Function",
+        "difficulty": "Easy",
+        "frequency": 79.9207,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-hashmap",
+        "title": "706. Design HashMap",
+        "difficulty": "Easy",
+        "frequency": 79.7801,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "title": "42. Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 79.6395,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "title": "56. Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 79.3738,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "title": "4. Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 79.2958,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/last-day-where-you-can-still-cross",
+        "title": "1970. Last Day Where You Can Still Cross",
+        "difficulty": "Hard",
+        "frequency": 79.2487,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "title": "49. Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 78.9513,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+        "title": "642. Design Search Autocomplete System",
+        "difficulty": "Hard",
+        "frequency": 78.5209,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "title": "200. Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 78.1399,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/add-two-integers",
+        "title": "2235. Add Two Integers",
+        "difficulty": "Easy",
+        "frequency": 77.885,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-squareful-arrays",
+        "title": "996. Number of Squareful Arrays",
+        "difficulty": "Hard",
+        "frequency": 77.6388,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/escape-a-large-maze",
+        "title": "1036. Escape a Large Maze",
+        "difficulty": "Hard",
+        "frequency": 77.6388,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/sum-of-total-strength-of-wizards",
+        "title": "2281. Sum of Total Strength of Wizards",
+        "difficulty": "Hard",
+        "frequency": 77.6388,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/3sum",
+        "title": "15. 3Sum",
+        "difficulty": "Medium",
+        "frequency": 77.6088,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/soup-servings",
+        "title": "808. Soup Servings",
+        "difficulty": "Medium",
+        "frequency": 76.1987,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+        "title": "1642. Furthest Building You Can Reach",
+        "difficulty": "Medium",
+        "frequency": 75.7781,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+        "title": "2398. Maximum Number of Robots Within Budget",
+        "difficulty": "Hard",
+        "frequency": 75.29,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-score-of-spliced-array",
+        "title": "2321. Maximum Score Of Spliced Array",
+        "difficulty": "Hard",
+        "frequency": 74.589,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "title": "121. Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 74.4549,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/sparse-matrix-multiplication",
+        "title": "311. Sparse Matrix Multiplication",
+        "difficulty": "Medium",
+        "frequency": 73.9948,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+        "title": "545. Boundary of Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 73.7071,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/top-k-frequent-elements",
+        "title": "347. Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 73.0323,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-trees-with-factors",
+        "title": "823. Binary Trees With Factors",
+        "difficulty": "Medium",
+        "frequency": 72.6792,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/island-perimeter",
+        "title": "463. Island Perimeter",
+        "difficulty": "Easy",
+        "frequency": 72.3129,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-circular-queue",
+        "title": "622. Design Circular Queue",
+        "difficulty": "Medium",
+        "frequency": 71.6008,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/fair-distribution-of-cookies",
+        "title": "2305. Fair Distribution of Cookies",
+        "difficulty": "Medium",
+        "frequency": 71.6008,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+        "title": "158. Read N Characters Given read4 II - Call Multiple Times",
+        "difficulty": "Hard",
+        "frequency": 71.0041,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/peeking-iterator",
+        "title": "284. Peeking Iterator",
+        "difficulty": "Medium",
+        "frequency": 71.0041,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/132-pattern",
+        "title": "456. 132 Pattern",
+        "difficulty": "Medium",
+        "frequency": 70.8973,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/rotate-array",
+        "title": "189. Rotate Array",
+        "difficulty": "Medium",
+        "frequency": 70.7768,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "title": "253. Meeting Rooms II",
+        "difficulty": "Medium",
+        "frequency": 70.4885,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence-ii",
+        "title": "2407. Longest Increasing Subsequence II",
+        "difficulty": "Hard",
+        "frequency": 70.2103,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-subsets",
+        "title": "916. Word Subsets",
+        "difficulty": "Medium",
+        "frequency": 69.9917,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/product-of-array-except-self",
+        "title": "238. Product of Array Except Self",
+        "difficulty": "Medium",
+        "frequency": 69.9511,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/all-possible-full-binary-trees",
+        "title": "894. All Possible Full Binary Trees",
+        "difficulty": "Medium",
+        "frequency": 69.8703,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/spiral-matrix",
+        "title": "54. Spiral Matrix",
+        "difficulty": "Medium",
+        "frequency": 69.8479,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "title": "20. Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 69.8202,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimize-deviation-in-array",
+        "title": "1675. Minimize Deviation in Array",
+        "difficulty": "Hard",
+        "frequency": 69.5124,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "title": "5. Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 69.0531,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-scheduler",
+        "title": "1229. Meeting Scheduler",
+        "difficulty": "Medium",
+        "frequency": 69.0493,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+        "title": "1639. Number of Ways to Form a Target String Given a Dictionary",
+        "difficulty": "Hard",
+        "frequency": 69.0493,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/house-robber",
+        "title": "198. House Robber",
+        "difficulty": "Medium",
+        "frequency": 68.9314,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/reverse-integer",
+        "title": "7. Reverse Integer",
+        "difficulty": "Medium",
+        "frequency": 68.6875,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/reordered-power-of-2",
+        "title": "869. Reordered Power of 2",
+        "difficulty": "Medium",
+        "frequency": 68.6014,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "title": "17. Letter Combinations of a Phone Number",
+        "difficulty": "Medium",
+        "frequency": 68.4576,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/palindrome-linked-list",
+        "title": "234. Palindrome Linked List",
+        "difficulty": "Easy",
+        "frequency": 68.228,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/car-pooling",
+        "title": "1094. Car Pooling",
+        "difficulty": "Medium",
+        "frequency": 68.0615,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "title": "21. Merge Two Sorted Lists",
+        "difficulty": "Easy",
+        "frequency": 68.0329,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+        "title": "1352. Product of the Last K Numbers",
+        "difficulty": "Medium",
+        "frequency": 67.9794,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+        "title": "1344. Angle Between Hands of a Clock",
+        "difficulty": "Medium",
+        "frequency": 67.7936,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/rotate-image",
+        "title": "48. Rotate Image",
+        "difficulty": "Medium",
+        "frequency": 67.55,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-product-difference-between-two-pairs",
+        "title": "1913. Maximum Product Difference Between Two Pairs",
+        "difficulty": "Easy",
+        "frequency": 67.3078,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/rotate-string",
+        "title": "796. Rotate String",
+        "difficulty": "Easy",
+        "frequency": 67.1723,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-number",
+        "title": "179. Largest Number",
+        "difficulty": "Medium",
+        "frequency": 67.1607,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/contains-duplicate",
+        "title": "217. Contains Duplicate",
+        "difficulty": "Easy",
+        "frequency": 67.0119,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/reverse-linked-list",
+        "title": "206. Reverse Linked List",
+        "difficulty": "Easy",
+        "frequency": 66.9669,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-different-palindromic-subsequences",
+        "title": "730. Count Different Palindromic Subsequences",
+        "difficulty": "Hard",
+        "frequency": 66.944,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/closest-dessert-cost",
+        "title": "1774. Closest Dessert Cost",
+        "difficulty": "Medium",
+        "frequency": 66.944,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/next-permutation",
+        "title": "31. Next Permutation",
+        "difficulty": "Medium",
+        "frequency": 66.8529,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+        "title": "1359. Count All Valid Pickup and Delivery Options",
+        "difficulty": "Hard",
+        "frequency": 66.1852,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+        "title": "19. Remove Nth Node From End of List",
+        "difficulty": "Medium",
+        "frequency": 66.1352,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/rabbits-in-forest",
+        "title": "781. Rabbits in Forest",
+        "difficulty": "Medium",
+        "frequency": 65.2733,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-word-square",
+        "title": "422. Valid Word Square",
+        "difficulty": "Easy",
+        "frequency": 65.1208,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/course-schedule",
+        "title": "207. Course Schedule",
+        "difficulty": "Medium",
+        "frequency": 64.8882,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/max-points-on-a-line",
+        "title": "149. Max Points on a Line",
+        "difficulty": "Hard",
+        "frequency": 64.8723,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-search",
+        "title": "704. Binary Search",
+        "difficulty": "Easy",
+        "frequency": 64.7297,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii",
+        "title": "3040. Maximum Number of Operations With the Same Score II",
+        "difficulty": "Medium",
+        "frequency": 64.6732,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "title": "88. Merge Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 64.5372,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "title": "242. Valid Anagram",
+        "difficulty": "Easy",
+        "frequency": 64.5264,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/decode-string",
+        "title": "394. Decode String",
+        "difficulty": "Medium",
+        "frequency": 64.4628,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+        "title": "84. Largest Rectangle in Histogram",
+        "difficulty": "Hard",
+        "frequency": 64.3558,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/daily-temperatures",
+        "title": "739. Daily Temperatures",
+        "difficulty": "Medium",
+        "frequency": 64.3424,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "title": "33. Search in Rotated Sorted Array",
+        "difficulty": "Medium",
+        "frequency": 64.2457,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-absolute-file-path",
+        "title": "388. Longest Absolute File Path",
+        "difficulty": "Medium",
+        "frequency": 64.1335,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome",
+        "title": "2193. Minimum Number of Moves to Make Palindrome",
+        "difficulty": "Hard",
+        "frequency": 64.1335,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "title": "11. Container With Most Water",
+        "difficulty": "Medium",
+        "frequency": 64.041,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "title": "53. Maximum Subarray",
+        "difficulty": "Medium",
+        "frequency": 63.9669,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/first-bad-version",
+        "title": "278. First Bad Version",
+        "difficulty": "Easy",
+        "frequency": 63.8966,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-and-say",
+        "title": "38. Count and Say",
+        "difficulty": "Medium",
+        "frequency": 63.8586,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/pascals-triangle",
+        "title": "118. Pascal's Triangle",
+        "difficulty": "Easy",
+        "frequency": 63.7028,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "title": "23. Merge k Sorted Lists",
+        "difficulty": "Hard",
+        "frequency": 63.3622,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/palindrome-number",
+        "title": "9. Palindrome Number",
+        "difficulty": "Easy",
+        "frequency": 63.1694,
+        "company": "Apple"
+    },
+    {
+        "link": "https://leetcode.com/problems/top-k-frequent-words",
+        "title": "692. Top K Frequent Words",
+        "difficulty": "Medium",
+        "frequency": 63.142,
+        "company": "Apple"
+    }
+]

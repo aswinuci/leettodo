@@ -1,0 +1,548 @@
+[
+    {
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "title": "1268. Search Suggestions System",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "title": "1326. Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "Hard",
+        "frequency": 90.452,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-a-text-editor",
+        "title": "2296. Design a Text Editor",
+        "difficulty": "Hard",
+        "frequency": 90.3498,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/beautiful-arrangement",
+        "title": "526. Beautiful Arrangement",
+        "difficulty": "Medium",
+        "frequency": 79.8223,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-break",
+        "title": "139. Word Break",
+        "difficulty": "Medium",
+        "frequency": 76.9923,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes",
+        "title": "865. Smallest Subtree with all the Deepest Nodes",
+        "difficulty": "Medium",
+        "frequency": 72.6024,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+        "title": "2592. Maximize Greatness of an Array",
+        "difficulty": "Medium",
+        "frequency": 70.3431,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
+        "title": "423. Reconstruct Original Digits from English",
+        "difficulty": "Medium",
+        "frequency": 70.1176,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-palindromic-subsequences",
+        "title": "2484. Count Palindromic Subsequences",
+        "difficulty": "Hard",
+        "frequency": 69.3491,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/split-array-largest-sum",
+        "title": "410. Split Array Largest Sum",
+        "difficulty": "Hard",
+        "frequency": 66.6225,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+        "title": "713. Subarray Product Less Than K",
+        "difficulty": "Medium",
+        "frequency": 65.9348,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-in-memory-file-system",
+        "title": "588. Design In-Memory File System",
+        "difficulty": "Hard",
+        "frequency": 64.9944,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/range-addition",
+        "title": "370. Range Addition",
+        "difficulty": "Medium",
+        "frequency": 64.8531,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/degree-of-an-array",
+        "title": "697. Degree of an Array",
+        "difficulty": "Easy",
+        "frequency": 62.6355,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/ipo",
+        "title": "502. IPO",
+        "difficulty": "Hard",
+        "frequency": 59.8292,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/lfu-cache",
+        "title": "460. LFU Cache",
+        "difficulty": "Hard",
+        "frequency": 59.7786,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/stream-of-characters",
+        "title": "1032. Stream of Characters",
+        "difficulty": "Hard",
+        "frequency": 59.6281,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/the-kth-factor-of-n",
+        "title": "1492. The kth Factor of n",
+        "difficulty": "Medium",
+        "frequency": 58.4709,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k",
+        "title": "3171. Find Subarray With Bitwise OR Closest to K",
+        "difficulty": "Hard",
+        "frequency": 58.312,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+        "title": "2016. Maximum Difference Between Increasing Elements",
+        "difficulty": "Easy",
+        "frequency": 57.3303,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/russian-doll-envelopes",
+        "title": "354. Russian Doll Envelopes",
+        "difficulty": "Hard",
+        "frequency": 55.8413,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+        "title": "1010. Pairs of Songs With Total Durations Divisible by 60",
+        "difficulty": "Medium",
+        "frequency": 55.5905,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-matching-subsequences",
+        "title": "792. Number of Matching Subsequences",
+        "difficulty": "Medium",
+        "frequency": 53.9482,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+        "title": "1011. Capacity To Ship Packages Within D Days",
+        "difficulty": "Medium",
+        "frequency": 53.5033,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/stickers-to-spell-word",
+        "title": "691. Stickers to Spell Word",
+        "difficulty": "Hard",
+        "frequency": 53.4755,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-number",
+        "title": "179. Largest Number",
+        "difficulty": "Medium",
+        "frequency": 52.6394,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/graph-valid-tree",
+        "title": "261. Graph Valid Tree",
+        "difficulty": "Medium",
+        "frequency": 51.2642,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+        "title": "241. Different Ways to Add Parentheses",
+        "difficulty": "Medium",
+        "frequency": 50.9003,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/predict-the-winner",
+        "title": "486. Predict the Winner",
+        "difficulty": "Medium",
+        "frequency": 50.2734,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+        "title": "378. Kth Smallest Element in a Sorted Matrix",
+        "difficulty": "Medium",
+        "frequency": 50.1006,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/decode-ways",
+        "title": "91. Decode Ways",
+        "difficulty": "Medium",
+        "frequency": 49.0781,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/lru-cache",
+        "title": "146. LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 48.925,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/asteroid-collision",
+        "title": "735. Asteroid Collision",
+        "difficulty": "Medium",
+        "frequency": 48.3156,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-binary-substrings",
+        "title": "696. Count Binary Substrings",
+        "difficulty": "Easy",
+        "frequency": 47.7837,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/integer-to-roman",
+        "title": "12. Integer to Roman",
+        "difficulty": "Medium",
+        "frequency": 46.8327,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "title": "253. Meeting Rooms II",
+        "difficulty": "Medium",
+        "frequency": 45.8644,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximal-square",
+        "title": "221. Maximal Square",
+        "difficulty": "Medium",
+        "frequency": 43.9703,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+        "title": "2035. Partition Array Into Two Arrays to Minimize Sum Difference",
+        "difficulty": "Hard",
+        "frequency": 43.1163,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-in-between-linked-lists",
+        "title": "1669. Merge In Between Linked Lists",
+        "difficulty": "Medium",
+        "frequency": 43.0704,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+        "title": "116. Populating Next Right Pointers in Each Node",
+        "difficulty": "Medium",
+        "frequency": 42.6611,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/max-area-of-island",
+        "title": "695. Max Area of Island",
+        "difficulty": "Medium",
+        "frequency": 40.8558,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/nested-list-weight-sum",
+        "title": "339. Nested List Weight Sum",
+        "difficulty": "Medium",
+        "frequency": 37.561,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "title": "20. Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 36.9201,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "title": "41. First Missing Positive",
+        "difficulty": "Hard",
+        "frequency": 36.8266,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/rotting-oranges",
+        "title": "994. Rotting Oranges",
+        "difficulty": "Medium",
+        "frequency": 36.5275,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/koko-eating-bananas",
+        "title": "875. Koko Eating Bananas",
+        "difficulty": "Medium",
+        "frequency": 35.937,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "title": "56. Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 35.7217,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "title": "49. Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 35.3777,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "title": "5. Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 33.4702,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "title": "200. Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 33.0611,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+        "title": "557. Reverse Words in a String III",
+        "difficulty": "Easy",
+        "frequency": 32.816,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+        "title": "84. Largest Rectangle in Histogram",
+        "difficulty": "Hard",
+        "frequency": 31.7754,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "title": "42. Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 31.7696,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+        "title": "1290. Convert Binary Number in a Linked List to Integer",
+        "difficulty": "Easy",
+        "frequency": 31.6281,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/triangle",
+        "title": "120. Triangle",
+        "difficulty": "Medium",
+        "frequency": 31.0955,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/wildcard-matching",
+        "title": "44. Wildcard Matching",
+        "difficulty": "Hard",
+        "frequency": 30.7055,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/task-scheduler",
+        "title": "621. Task Scheduler",
+        "difficulty": "Medium",
+        "frequency": 30.5738,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+        "title": "628. Maximum Product of Three Numbers",
+        "difficulty": "Easy",
+        "frequency": 28.6511,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/distinct-subsequences",
+        "title": "115. Distinct Subsequences",
+        "difficulty": "Hard",
+        "frequency": 28.5067,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+        "title": "199. Binary Tree Right Side View",
+        "difficulty": "Medium",
+        "frequency": 28.1465,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/non-overlapping-intervals",
+        "title": "435. Non-overlapping Intervals",
+        "difficulty": "Medium",
+        "frequency": 28.0736,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "title": "380. Insert Delete GetRandom O(1)",
+        "difficulty": "Medium",
+        "frequency": 27.858,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "title": "215. Kth Largest Element in an Array",
+        "difficulty": "Medium",
+        "frequency": 26.4466,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/is-subsequence",
+        "title": "392. Is Subsequence",
+        "difficulty": "Easy",
+        "frequency": 26.3211,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "title": "3. Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 26.042,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/majority-element-ii",
+        "title": "229. Majority Element II",
+        "difficulty": "Medium",
+        "frequency": 25.6703,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/top-k-frequent-elements",
+        "title": "347. Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 25.4874,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/clone-graph",
+        "title": "133. Clone Graph",
+        "difficulty": "Medium",
+        "frequency": 25.1655,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/daily-temperatures",
+        "title": "739. Daily Temperatures",
+        "difficulty": "Medium",
+        "frequency": 24.8341,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/sliding-window-maximum",
+        "title": "239. Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 24.5051,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+        "title": "105. Construct Binary Tree from Preorder and Inorder Traversal",
+        "difficulty": "Medium",
+        "frequency": 23.8171,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "title": "23. Merge k Sorted Lists",
+        "difficulty": "Hard",
+        "frequency": 22.2221,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+        "title": "124. Binary Tree Maximum Path Sum",
+        "difficulty": "Hard",
+        "frequency": 21.9557,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "title": "33. Search in Rotated Sorted Array",
+        "difficulty": "Medium",
+        "frequency": 21.7656,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/course-schedule-ii",
+        "title": "210. Course Schedule II",
+        "difficulty": "Medium",
+        "frequency": 21.5092,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/product-of-array-except-self",
+        "title": "238. Product of Array Except Self",
+        "difficulty": "Medium",
+        "frequency": 21.2478,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "title": "121. Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 20.5594,
+        "company": "Salesforce"
+    },
+    {
+        "link": "https://leetcode.com/problems/isomorphic-strings",
+        "title": "205. Isomorphic Strings",
+        "difficulty": "Easy",
+        "frequency": 20.0943,
+        "company": "Salesforce"
+    }
+]

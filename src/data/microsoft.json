@@ -1,0 +1,702 @@
+[
+    {
+        "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+        "title": "2850. Minimum Moves to Spread Stones Over Grid",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/lru-cache",
+        "title": "146. LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 97.9343,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+        "title": "2246. Longest Path With Different Adjacent Characters",
+        "difficulty": "Hard",
+        "frequency": 95.8685,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/inorder-successor-in-bst",
+        "title": "285. Inorder Successor in BST",
+        "difficulty": "Medium",
+        "frequency": 93.8028,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-missing-observations",
+        "title": "2028. Find Missing Observations",
+        "difficulty": "Medium",
+        "frequency": 92.9531,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "Medium",
+        "frequency": 92.2446,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-palindromic-number",
+        "title": "2384. Largest Palindromic Number",
+        "difficulty": "Medium",
+        "frequency": 92.1281,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/optimal-account-balancing",
+        "title": "465. Optimal Account Balancing",
+        "difficulty": "Hard",
+        "frequency": 90.0623,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "title": "273. Integer to English Words",
+        "difficulty": "Hard",
+        "frequency": 89.6791,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-tic-tac-toe",
+        "title": "348. Design Tic-Tac-Toe",
+        "difficulty": "Medium",
+        "frequency": 87.6134,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-multiple-of-three",
+        "title": "1363. Largest Multiple of Three",
+        "difficulty": "Hard",
+        "frequency": 87.2905,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-the-celebrity",
+        "title": "277. Find the Celebrity",
+        "difficulty": "Medium",
+        "frequency": 85.2247,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart",
+        "title": "3009. Maximum Number of Intersections on the Chart",
+        "difficulty": "Hard",
+        "frequency": 85.0137,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-number",
+        "title": "179. Largest Number",
+        "difficulty": "Medium",
+        "frequency": 84.2365,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "title": "253. Meeting Rooms II",
+        "difficulty": "Medium",
+        "frequency": 83.9227,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "title": "2086. Minimum Number of Food Buckets to Feed the Hamsters",
+        "difficulty": "Medium",
+        "frequency": 83.9227,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/basic-calculator-iii",
+        "title": "772. Basic Calculator III",
+        "difficulty": "Hard",
+        "frequency": 83.0579,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+        "title": "2998. Minimum Number of Operations to Make X and Y Equal",
+        "difficulty": "Medium",
+        "frequency": 83.0166,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+        "title": "25. Reverse Nodes in k-Group",
+        "difficulty": "Hard",
+        "frequency": 82.373,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "title": "200. Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 81.0899,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+        "title": "949. Largest Time for Given Digits",
+        "difficulty": "Medium",
+        "frequency": 80.4029,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+        "title": "1027. Longest Arithmetic Subsequence",
+        "difficulty": "Medium",
+        "frequency": 79.8569,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-hashmap",
+        "title": "706. Design HashMap",
+        "difficulty": "Easy",
+        "frequency": 79.3435,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+        "title": "297. Serialize and Deserialize Binary Tree",
+        "difficulty": "Hard",
+        "frequency": 79.1955,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "title": "41. First Missing Positive",
+        "difficulty": "Hard",
+        "frequency": 79.1198,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+        "title": "1239. Maximum Length of a Concatenated String with Unique Characters",
+        "difficulty": "Medium",
+        "frequency": 78.6017,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-comments",
+        "title": "722. Remove Comments",
+        "difficulty": "Medium",
+        "frequency": 78.5495,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/two-sum",
+        "title": "1. Two Sum",
+        "difficulty": "Easy",
+        "frequency": 78.3506,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "title": "42. Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 77.8984,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree",
+        "title": "428. Serialize and Deserialize N-ary Tree",
+        "difficulty": "Hard",
+        "frequency": 77.7916,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/change-the-root-of-a-binary-tree",
+        "title": "1666. Change the Root of a Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 77.3794,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "title": "56. Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 76.6977,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful",
+        "title": "1578. Minimum Time to Make Rope Colorful",
+        "difficulty": "Medium",
+        "frequency": 75.3724,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "title": "3. Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 74.6106,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "title": "23. Merge k Sorted Lists",
+        "difficulty": "Hard",
+        "frequency": 74.599,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/inorder-successor-in-bst-ii",
+        "title": "510. Inorder Successor in BST II",
+        "difficulty": "Medium",
+        "frequency": 74.363,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/rank-teams-by-votes",
+        "title": "1366. Rank Teams by Votes",
+        "difficulty": "Medium",
+        "frequency": 73.921,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/restore-ip-addresses",
+        "title": "93. Restore IP Addresses",
+        "difficulty": "Medium",
+        "frequency": 73.1689,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-frequency-stack",
+        "title": "895. Maximum Frequency Stack",
+        "difficulty": "Hard",
+        "frequency": 73.0276,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "title": "13. Roman to Integer",
+        "difficulty": "Easy",
+        "frequency": 72.9286,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-plus-sign",
+        "title": "764. Largest Plus Sign",
+        "difficulty": "Medium",
+        "frequency": 72.3601,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "title": "4. Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 72.1356,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "title": "49. Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 71.732,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/the-latest-time-to-catch-a-bus",
+        "title": "2332. The Latest Time to Catch a Bus",
+        "difficulty": "Medium",
+        "frequency": 71.636,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "title": "5. Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 71.3445,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "title": "53. Maximum Subarray",
+        "difficulty": "Medium",
+        "frequency": 71.0629,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/sliding-window-maximum",
+        "title": "239. Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 70.5732,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-happy-string",
+        "title": "1405. Longest Happy String",
+        "difficulty": "Medium",
+        "frequency": 70.3723,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/spiral-matrix",
+        "title": "54. Spiral Matrix",
+        "difficulty": "Medium",
+        "frequency": 70.0994,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+        "title": "116. Populating Next Right Pointers in Each Node",
+        "difficulty": "Medium",
+        "frequency": 70.076,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/basic-calculator",
+        "title": "224. Basic Calculator",
+        "difficulty": "Hard",
+        "frequency": 69.9183,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-search-ii",
+        "title": "212. Word Search II",
+        "difficulty": "Hard",
+        "frequency": 69.416,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "title": "295. Find Median from Data Stream",
+        "difficulty": "Hard",
+        "frequency": 69.2492,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-memory-allocator",
+        "title": "2502. Design Memory Allocator",
+        "difficulty": "Medium",
+        "frequency": 68.7893,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+        "title": "545. Boundary of Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 68.5074,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-break-ii",
+        "title": "140. Word Break II",
+        "difficulty": "Hard",
+        "frequency": 68.3209,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "title": "2. Add Two Numbers",
+        "difficulty": "Medium",
+        "frequency": 68.0441,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "title": "88. Merge Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 67.7523,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-file-system",
+        "title": "1166. Design File System",
+        "difficulty": "Medium",
+        "frequency": 67.3555,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-search",
+        "title": "79. Word Search",
+        "difficulty": "Medium",
+        "frequency": 67.1327,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-duplicate-letters",
+        "title": "316. Remove Duplicate Letters",
+        "difficulty": "Medium",
+        "frequency": 67.0677,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/matchsticks-to-square",
+        "title": "473. Matchsticks to Square",
+        "difficulty": "Medium",
+        "frequency": 66.9304,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+        "title": "378. Kth Smallest Element in a Sorted Matrix",
+        "difficulty": "Medium",
+        "frequency": 66.7945,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "title": "138. Copy List with Random Pointer",
+        "difficulty": "Medium",
+        "frequency": 66.5267,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/lfu-cache",
+        "title": "460. LFU Cache",
+        "difficulty": "Hard",
+        "frequency": 66.3838,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/regular-expression-matching",
+        "title": "10. Regular Expression Matching",
+        "difficulty": "Hard",
+        "frequency": 66.2608,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/cinema-seat-allocation",
+        "title": "1386. Cinema Seat Allocation",
+        "difficulty": "Medium",
+        "frequency": 66.2065,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/battleships-in-a-board",
+        "title": "419. Battleships in a Board",
+        "difficulty": "Medium",
+        "frequency": 66.1187,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/gas-station",
+        "title": "134. Gas Station",
+        "difficulty": "Medium",
+        "frequency": 65.8085,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+        "title": "1642. Furthest Building You Can Reach",
+        "difficulty": "Medium",
+        "frequency": 65.6544,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/add-bold-tag-in-string",
+        "title": "616. Add Bold Tag in String",
+        "difficulty": "Medium",
+        "frequency": 65.3536,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+        "title": "2275. Largest Combination With Bitwise AND Greater Than Zero",
+        "difficulty": "Medium",
+        "frequency": 65.3536,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/validate-ip-address",
+        "title": "468. Validate IP Address",
+        "difficulty": "Medium",
+        "frequency": 65.1079,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "title": "17. Letter Combinations of a Phone Number",
+        "difficulty": "Medium",
+        "frequency": 64.9864,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+        "title": "325. Maximum Size Subarray Sum Equals k",
+        "difficulty": "Medium",
+        "frequency": 64.8667,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/product-of-array-except-self",
+        "title": "238. Product of Array Except Self",
+        "difficulty": "Medium",
+        "frequency": 64.8269,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/excel-sheet-column-title",
+        "title": "168. Excel Sheet Column Title",
+        "difficulty": "Easy",
+        "frequency": 64.6592,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-break",
+        "title": "139. Word Break",
+        "difficulty": "Medium",
+        "frequency": 64.3336,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/generate-parentheses",
+        "title": "22. Generate Parentheses",
+        "difficulty": "Medium",
+        "frequency": 64.2083,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-k-digits",
+        "title": "402. Remove K Digits",
+        "difficulty": "Medium",
+        "frequency": 64.0148,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/image-overlap",
+        "title": "835. Image Overlap",
+        "difficulty": "Medium",
+        "frequency": 63.9432,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+        "title": "1775. Equal Sum Arrays With Minimum Number of Operations",
+        "difficulty": "Medium",
+        "frequency": 63.9432,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/reordered-power-of-2",
+        "title": "869. Reordered Power of 2",
+        "difficulty": "Medium",
+        "frequency": 63.5044,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-distinct-islands",
+        "title": "694. Number of Distinct Islands",
+        "difficulty": "Medium",
+        "frequency": 63.4565,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced",
+        "title": "1653. Minimum Deletions to Make String Balanced",
+        "difficulty": "Medium",
+        "frequency": 63.4565,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/create-hello-world-function",
+        "title": "2667. Create Hello World Function",
+        "difficulty": "Easy",
+        "frequency": 63.0597,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/contiguous-array",
+        "title": "525. Contiguous Array",
+        "difficulty": "Medium",
+        "frequency": 62.9753,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list",
+        "title": "426. Convert Binary Search Tree to Sorted Doubly Linked List",
+        "difficulty": "Medium",
+        "frequency": 62.9753,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+        "title": "103. Binary Tree Zigzag Level Order Traversal",
+        "difficulty": "Medium",
+        "frequency": 62.9514,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+        "title": "1344. Angle Between Hands of a Clock",
+        "difficulty": "Medium",
+        "frequency": 62.7128,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "title": "1209. Remove All Adjacent Duplicates in String II",
+        "difficulty": "Medium",
+        "frequency": 62.6839,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "title": "3013. Divide an Array Into Subarrays With Minimum Cost II",
+        "difficulty": "Hard",
+        "frequency": 62.2682,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
+        "title": "1304. Find N Unique Integers Sum up to Zero",
+        "difficulty": "Easy",
+        "frequency": 62.2367,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+        "title": "863. All Nodes Distance K in Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 62.1457,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/combination-sum",
+        "title": "39. Combination Sum",
+        "difficulty": "Medium",
+        "frequency": 62.0546,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/numbers-with-same-consecutive-differences",
+        "title": "967. Numbers With Same Consecutive Differences",
+        "difficulty": "Medium",
+        "frequency": 62.0083,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-in-memory-file-system",
+        "title": "588. Design In-Memory File System",
+        "difficulty": "Hard",
+        "frequency": 61.6695,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/robot-room-cleaner",
+        "title": "489. Robot Room Cleaner",
+        "difficulty": "Hard",
+        "frequency": 61.6695,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "title": "121. Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 61.3085,
+        "company": "Microsoft"
+    },
+    {
+        "link": "https://leetcode.com/problems/text-justification",
+        "title": "68. Text Justification",
+        "difficulty": "Hard",
+        "frequency": 61.233,
+        "company": "Microsoft"
+    }
+]

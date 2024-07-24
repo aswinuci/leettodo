@@ -1,0 +1,702 @@
+[
+    {
+        "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+        "title": "314. Binary Tree Vertical Order Traversal",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-word-abbreviation",
+        "title": "408. Valid Word Abbreviation",
+        "difficulty": "Easy",
+        "frequency": 98.06,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+        "title": "1249. Minimum Remove to Make Valid Parentheses",
+        "difficulty": "Medium",
+        "frequency": 97.5687,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/buildings-with-an-ocean-view",
+        "title": "1762. Buildings With an Ocean View",
+        "difficulty": "Medium",
+        "frequency": 95.6287,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+        "title": "1570. Dot Product of Two Sparse Vectors",
+        "difficulty": "Medium",
+        "frequency": 95.1644,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+        "title": "1650. Lowest Common Ancestor of a Binary Tree III",
+        "difficulty": "Medium",
+        "frequency": 95.041,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/random-pick-with-weight",
+        "title": "528. Random Pick with Weight",
+        "difficulty": "Medium",
+        "frequency": 93.101,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/nested-list-weight-sum",
+        "title": "339. Nested List Weight Sum",
+        "difficulty": "Medium",
+        "frequency": 91.3449,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-palindrome-ii",
+        "title": "680. Valid Palindrome II",
+        "difficulty": "Easy",
+        "frequency": 91.0756,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/basic-calculator-ii",
+        "title": "227. Basic Calculator II",
+        "difficulty": "Medium",
+        "frequency": 89.7929,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list",
+        "title": "426. Convert Binary Search Tree to Sorted Doubly Linked List",
+        "difficulty": "Medium",
+        "frequency": 87.8529,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "title": "215. Kth Largest Element in an Array",
+        "difficulty": "Medium",
+        "frequency": 85.9129,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/simplify-path",
+        "title": "71. Simplify Path",
+        "difficulty": "Medium",
+        "frequency": 84.5112,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+        "title": "346. Moving Average from Data Stream",
+        "difficulty": "Easy",
+        "frequency": 84.389,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/range-sum-of-bst",
+        "title": "938. Range Sum of BST",
+        "difficulty": "Easy",
+        "frequency": 84.2902,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/group-shifted-strings",
+        "title": "249. Group Shifted Strings",
+        "difficulty": "Medium",
+        "frequency": 83.7843,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/stickers-to-spell-word",
+        "title": "691. Stickers to Spell Word",
+        "difficulty": "Hard",
+        "frequency": 83.526,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/custom-sort-string",
+        "title": "791. Custom Sort String",
+        "difficulty": "Medium",
+        "frequency": 82.0495,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
+        "title": "708. Insert into a Sorted Circular Linked List",
+        "difficulty": "Medium",
+        "frequency": 81.3252,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-swap",
+        "title": "670. Maximum Swap",
+        "difficulty": "Medium",
+        "frequency": 79.5567,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+        "title": "921. Minimum Add to Make Parentheses Valid",
+        "difficulty": "Medium",
+        "frequency": 79.4091,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "title": "236. Lowest Common Ancestor of a Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 79.244,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+        "title": "973. K Closest Points to Origin",
+        "difficulty": "Medium",
+        "frequency": 78.8858,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/interval-list-intersections",
+        "title": "986. Interval List Intersections",
+        "difficulty": "Medium",
+        "frequency": 78.7095,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/powx-n",
+        "title": "50. Pow(x, n)",
+        "difficulty": "Medium",
+        "frequency": 78.261,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+        "title": "1091. Shortest Path in Binary Matrix",
+        "difficulty": "Medium",
+        "frequency": 78.0839,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-palindrome-iii",
+        "title": "1216. Valid Palindrome III",
+        "difficulty": "Hard",
+        "frequency": 77.1472,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-invalid-parentheses",
+        "title": "301. Remove Invalid Parentheses",
+        "difficulty": "Hard",
+        "frequency": 75.4138,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-number",
+        "title": "65. Valid Number",
+        "difficulty": "Hard",
+        "frequency": 75.4005,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/making-a-large-island",
+        "title": "827. Making A Large Island",
+        "difficulty": "Hard",
+        "frequency": 75.176,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "title": "560. Subarray Sum Equals K",
+        "difficulty": "Medium",
+        "frequency": 75.1105,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-peak-element",
+        "title": "162. Find Peak Element",
+        "difficulty": "Medium",
+        "frequency": 75.0663,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+        "title": "129. Sum Root to Leaf Numbers",
+        "difficulty": "Medium",
+        "frequency": 74.8889,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+        "title": "199. Binary Tree Right Side View",
+        "difficulty": "Medium",
+        "frequency": 74.6682,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+        "title": "317. Shortest Distance from All Buildings",
+        "difficulty": "Hard",
+        "frequency": 74.4985,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "title": "56. Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 74.0785,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/closest-binary-search-tree-value",
+        "title": "270. Closest Binary Search Tree Value",
+        "difficulty": "Easy",
+        "frequency": 74.0378,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "title": "138. Copy List with Random Pointer",
+        "difficulty": "Medium",
+        "frequency": 73.903,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/diagonal-traverse",
+        "title": "498. Diagonal Traverse",
+        "difficulty": "Medium",
+        "frequency": 73.2868,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+        "title": "636. Exclusive Time of Functions",
+        "difficulty": "Medium",
+        "frequency": 73.2583,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/random-pick-index",
+        "title": "398. Random Pick Index",
+        "difficulty": "Medium",
+        "frequency": 73.2555,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/toeplitz-matrix",
+        "title": "766. Toeplitz Matrix",
+        "difficulty": "Easy",
+        "frequency": 73.2207,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/lru-cache",
+        "title": "146. LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 71.9092,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+        "title": "543. Diameter of Binary Tree",
+        "difficulty": "Easy",
+        "frequency": 71.5734,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/missing-ranges",
+        "title": "163. Missing Ranges",
+        "difficulty": "Easy",
+        "frequency": 71.0438,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays",
+        "title": "1868. Product of Two Run-Length Encoded Arrays",
+        "difficulty": "Medium",
+        "frequency": 70.9429,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-tic-tac-toe",
+        "title": "348. Design Tic-Tac-Toe",
+        "difficulty": "Medium",
+        "frequency": 70.0046,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/continuous-subarray-sum",
+        "title": "523. Continuous Subarray Sum",
+        "difficulty": "Medium",
+        "frequency": 69.6237,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/top-k-frequent-elements",
+        "title": "347. Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 69.0511,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+        "title": "1424. Diagonal Traverse II",
+        "difficulty": "Medium",
+        "frequency": 68.7513,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+        "title": "987. Vertical Order Traversal of a Binary Tree",
+        "difficulty": "Hard",
+        "frequency": 68.5507,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "title": "125. Valid Palindrome",
+        "difficulty": "Easy",
+        "frequency": 68.3949,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "title": "88. Merge Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 68.3551,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/next-permutation",
+        "title": "31. Next Permutation",
+        "difficulty": "Medium",
+        "frequency": 67.9999,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "title": "23. Merge k Sorted Lists",
+        "difficulty": "Hard",
+        "frequency": 67.9997,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/add-strings",
+        "title": "415. Add Strings",
+        "difficulty": "Easy",
+        "frequency": 67.6182,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/robot-room-cleaner",
+        "title": "489. Robot Room Cleaner",
+        "difficulty": "Hard",
+        "frequency": 67.4299,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/accounts-merge",
+        "title": "721. Accounts Merge",
+        "difficulty": "Medium",
+        "frequency": 66.6698,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/construct-binary-tree-from-string",
+        "title": "536. Construct Binary Tree from String",
+        "difficulty": "Medium",
+        "frequency": 66.6155,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/verifying-an-alien-dictionary",
+        "title": "953. Verifying an Alien Dictionary",
+        "difficulty": "Easy",
+        "frequency": 65.8314,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "title": "253. Meeting Rooms II",
+        "difficulty": "Medium",
+        "frequency": 65.5046,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/clone-graph",
+        "title": "133. Clone Graph",
+        "difficulty": "Medium",
+        "frequency": 65.2269,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/3sum",
+        "title": "15. 3Sum",
+        "difficulty": "Medium",
+        "frequency": 65.141,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "title": "200. Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 65.097,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-break-ii",
+        "title": "140. Word Break II",
+        "difficulty": "Hard",
+        "frequency": 64.9673,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/move-zeroes",
+        "title": "283. Move Zeroes",
+        "difficulty": "Easy",
+        "frequency": 64.8878,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings",
+        "title": "2060. Check if an Original String Exists Given Two Encoded Strings",
+        "difficulty": "Hard",
+        "frequency": 64.8146,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-distinct-islands-ii",
+        "title": "711. Number of Distinct Islands II",
+        "difficulty": "Hard",
+        "frequency": 64.5873,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/friends-of-appropriate-ages",
+        "title": "825. Friends Of Appropriate Ages",
+        "difficulty": "Medium",
+        "frequency": 64.5873,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+        "title": "1004. Max Consecutive Ones III",
+        "difficulty": "Medium",
+        "frequency": 63.6752,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/palindrome-permutation",
+        "title": "266. Palindrome Permutation",
+        "difficulty": "Easy",
+        "frequency": 63.4769,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+        "title": "173. Binary Search Tree Iterator",
+        "difficulty": "Medium",
+        "frequency": 62.6804,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+        "title": "1047. Remove All Adjacent Duplicates In String",
+        "difficulty": "Easy",
+        "frequency": 62.6424,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+        "title": "863. All Nodes Distance K in Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 62.5611,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/best-meeting-point",
+        "title": "296. Best Meeting Point",
+        "difficulty": "Hard",
+        "frequency": 62.559,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/expression-add-operators",
+        "title": "282. Expression Add Operators",
+        "difficulty": "Hard",
+        "frequency": 62.5197,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/minesweeper",
+        "title": "529. Minesweeper",
+        "difficulty": "Medium",
+        "frequency": 62.3451,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
+        "title": "689. Maximum Sum of 3 Non-Overlapping Subarrays",
+        "difficulty": "Hard",
+        "frequency": 62.2498,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "title": "1209. Remove All Adjacent Duplicates in String II",
+        "difficulty": "Medium",
+        "frequency": 61.6975,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+        "title": "304. Range Sum Query 2D - Immutable",
+        "difficulty": "Medium",
+        "frequency": 61.0504,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/sliding-window-median",
+        "title": "480. Sliding Window Median",
+        "difficulty": "Hard",
+        "frequency": 60.1601,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/kth-missing-positive-number",
+        "title": "1539. Kth Missing Positive Number",
+        "difficulty": "Easy",
+        "frequency": 59.7269,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+        "title": "378. Kth Smallest Element in a Sorted Matrix",
+        "difficulty": "Medium",
+        "frequency": 59.6177,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-window-substring",
+        "title": "76. Minimum Window Substring",
+        "difficulty": "Hard",
+        "frequency": 59.0813,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "title": "17. Letter Combinations of a Phone Number",
+        "difficulty": "Medium",
+        "frequency": 58.8248,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree",
+        "title": "1443. Minimum Time to Collect All Apples in a Tree",
+        "difficulty": "Medium",
+        "frequency": 58.6285,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii",
+        "title": "1644. Lowest Common Ancestor of a Binary Tree II",
+        "difficulty": "Medium",
+        "frequency": 58.0429,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/missing-element-in-sorted-array",
+        "title": "1060. Missing Element in Sorted Array",
+        "difficulty": "Medium",
+        "frequency": 57.8044,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-and-say",
+        "title": "38. Count and Say",
+        "difficulty": "Medium",
+        "frequency": 57.7383,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/check-completeness-of-a-binary-tree",
+        "title": "958. Check Completeness of a Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 57.7154,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+        "title": "34. Find First and Last Position of Element in Sorted Array",
+        "difficulty": "Medium",
+        "frequency": 57.5697,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/alien-dictionary",
+        "title": "269. Alien Dictionary",
+        "difficulty": "Hard",
+        "frequency": 57.4449,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string",
+        "title": "1541. Minimum Insertions to Balance a Parentheses String",
+        "difficulty": "Medium",
+        "frequency": 57.374,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes",
+        "title": "865. Smallest Subtree with all the Deepest Nodes",
+        "difficulty": "Medium",
+        "frequency": 56.9934,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-k-closest-elements",
+        "title": "658. Find K Closest Elements",
+        "difficulty": "Medium",
+        "frequency": 56.5747,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves",
+        "title": "1123. Lowest Common Ancestor of Deepest Leaves",
+        "difficulty": "Medium",
+        "frequency": 56.0149,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/the-maze",
+        "title": "490. The Maze",
+        "difficulty": "Medium",
+        "frequency": 55.8485,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/course-schedule",
+        "title": "207. Course Schedule",
+        "difficulty": "Medium",
+        "frequency": 55.6509,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/subsets",
+        "title": "78. Subsets",
+        "difficulty": "Medium",
+        "frequency": 55.2231,
+        "company": "Meta"
+    },
+    {
+        "link": "https://leetcode.com/problems/rank-transform-of-an-array",
+        "title": "1331. Rank Transform of an Array",
+        "difficulty": "Easy",
+        "frequency": 55.1145,
+        "company": "Meta"
+    }
+]

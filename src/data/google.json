@@ -1,0 +1,702 @@
+[
+    {
+        "link": "https://leetcode.com/problems/range-module",
+        "title": "715. Range Module",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/logger-rate-limiter",
+        "title": "359. Logger Rate Limiter",
+        "difficulty": "Easy",
+        "frequency": 98.9852,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/race-car",
+        "title": "818. Race Car",
+        "difficulty": "Hard",
+        "frequency": 97.4723,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-rooms-iii",
+        "title": "2402. Meeting Rooms III",
+        "difficulty": "Hard",
+        "frequency": 97.0192,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/finding-mk-average",
+        "title": "1825. Finding MK Average",
+        "difficulty": "Hard",
+        "frequency": 95.5063,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries",
+        "title": "2458. Height of Binary Tree After Subtree Removal Queries",
+        "difficulty": "Hard",
+        "frequency": 93.9934,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+        "title": "2101. Detonate the Maximum Bombs",
+        "difficulty": "Medium",
+        "frequency": 93.9322,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix",
+        "title": "2713. Maximum Strictly Increasing Cells in a Matrix",
+        "difficulty": "Hard",
+        "frequency": 92.4193,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends",
+        "title": "1101. The Earliest Moment When Everyone Become Friends",
+        "difficulty": "Medium",
+        "frequency": 91.8432,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/parallel-courses",
+        "title": "1136. Parallel Courses",
+        "difficulty": "Medium",
+        "frequency": 90.64,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/my-calendar-i",
+        "title": "729. My Calendar I",
+        "difficulty": "Medium",
+        "frequency": 89.65,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/odd-even-jump",
+        "title": "975. Odd Even Jump",
+        "difficulty": "Hard",
+        "frequency": 88.8988,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/sum-of-prefix-scores-of-strings",
+        "title": "2416. Sum of Prefix Scores of Strings",
+        "difficulty": "Hard",
+        "frequency": 87.3859,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+        "title": "1293. Shortest Path in a Grid with Obstacles Elimination",
+        "difficulty": "Hard",
+        "frequency": 86.9699,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-area-rectangle",
+        "title": "939. Minimum Area Rectangle",
+        "difficulty": "Medium",
+        "frequency": 86.4947,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/differences-between-two-objects",
+        "title": "2700. Differences Between Two Objects",
+        "difficulty": "Medium",
+        "frequency": 86.2256,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays",
+        "title": "2863. Maximum Length of Semi-Decreasing Subarrays",
+        "difficulty": "Medium",
+        "frequency": 85.4399,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/delete-nodes-and-return-forest",
+        "title": "1110. Delete Nodes And Return Forest",
+        "difficulty": "Medium",
+        "frequency": 85.1129,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+        "title": "1102. Path With Maximum Minimum Value",
+        "difficulty": "Medium",
+        "frequency": 85.0232,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+        "title": "2184. Number of Ways to Build Sturdy Brick Wall",
+        "difficulty": "Medium",
+        "frequency": 85.0232,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/detect-squares",
+        "title": "2013. Detect Squares",
+        "difficulty": "Medium",
+        "frequency": 84.2807,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/stock-price-fluctuation",
+        "title": "2034. Stock Price Fluctuation",
+        "difficulty": "Medium",
+        "frequency": 84.1084,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+        "title": "366. Find Leaves of Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 82.5955,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-good-paths",
+        "title": "2421. Number of Good Paths",
+        "difficulty": "Hard",
+        "frequency": 82.0571,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-valid-clock-times",
+        "title": "2437. Number of Valid Clock Times",
+        "difficulty": "Easy",
+        "frequency": 81.8088,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "title": "253. Meeting Rooms II",
+        "difficulty": "Medium",
+        "frequency": 80.4694,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/random-pick-with-weight",
+        "title": "528. Random Pick with Weight",
+        "difficulty": "Medium",
+        "frequency": 80.1521,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/sentence-screen-fitting",
+        "title": "418. Sentence Screen Fitting",
+        "difficulty": "Medium",
+        "frequency": 79.74,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+        "title": "2265. Count Nodes Equal to Average of Subtree",
+        "difficulty": "Medium",
+        "frequency": 78.5768,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/guess-the-word",
+        "title": "843. Guess the Word",
+        "difficulty": "Hard",
+        "frequency": 77.8382,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/two-sum",
+        "title": "1. Two Sum",
+        "difficulty": "Easy",
+        "frequency": 77.7373,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty",
+        "title": "2842. Count K-Subsequences of a String With Maximum Beauty",
+        "difficulty": "Hard",
+        "frequency": 77.372,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/filling-bookcase-shelves",
+        "title": "1105. Filling Bookcase Shelves",
+        "difficulty": "Medium",
+        "frequency": 77.253,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/rle-iterator",
+        "title": "900. RLE Iterator",
+        "difficulty": "Medium",
+        "frequency": 76.7052,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence-ii",
+        "title": "2407. Longest Increasing Subsequence II",
+        "difficulty": "Hard",
+        "frequency": 76.5392,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/employee-free-time",
+        "title": "759. Employee Free Time",
+        "difficulty": "Hard",
+        "frequency": 76.0743,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+        "title": "1610. Maximum Number of Visible Points",
+        "difficulty": "Hard",
+        "frequency": 76.0089,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/water-and-jug-problem",
+        "title": "365. Water and Jug Problem",
+        "difficulty": "Medium",
+        "frequency": 75.7683,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/create-hello-world-function",
+        "title": "2667. Create Hello World Function",
+        "difficulty": "Easy",
+        "frequency": 75.7682,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/shortest-bridge",
+        "title": "934. Shortest Bridge",
+        "difficulty": "Medium",
+        "frequency": 75.6632,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/snapshot-array",
+        "title": "1146. Snapshot Array",
+        "difficulty": "Medium",
+        "frequency": 74.703,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/robot-room-cleaner",
+        "title": "489. Robot Room Cleaner",
+        "difficulty": "Hard",
+        "frequency": 73.9373,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximal-rectangle",
+        "title": "85. Maximal Rectangle",
+        "difficulty": "Hard",
+        "frequency": 73.0952,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-and-replace-in-string",
+        "title": "833. Find And Replace in String",
+        "difficulty": "Medium",
+        "frequency": 72.9645,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+        "title": "2316. Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "difficulty": "Medium",
+        "frequency": 72.913,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/text-justification",
+        "title": "68. Text Justification",
+        "difficulty": "Hard",
+        "frequency": 72.4031,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/employee-importance",
+        "title": "690. Employee Importance",
+        "difficulty": "Medium",
+        "frequency": 72.0449,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+        "title": "963. Minimum Area Rectangle II",
+        "difficulty": "Medium",
+        "frequency": 71.8204,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-closed-islands",
+        "title": "1254. Number of Closed Islands",
+        "difficulty": "Medium",
+        "frequency": 71.4534,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/the-latest-time-to-catch-a-bus",
+        "title": "2332. The Latest Time to Catch a Bus",
+        "difficulty": "Medium",
+        "frequency": 71.1078,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/lru-cache",
+        "title": "146. LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 70.9956,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "title": "200. Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 70.7707,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+        "title": "2007. Find Original Array From Doubled Array",
+        "difficulty": "Medium",
+        "frequency": 69.2578,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-fertile-pyramids-in-a-land",
+        "title": "2088. Count Fertile Pyramids in a Land",
+        "difficulty": "Hard",
+        "frequency": 68.884,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/single-threaded-cpu",
+        "title": "1834. Single-Threaded CPU",
+        "difficulty": "Medium",
+        "frequency": 68.8259,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/add-two-integers",
+        "title": "2235. Add Two Integers",
+        "difficulty": "Easy",
+        "frequency": 68.6968,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/next-closest-time",
+        "title": "681. Next Closest Time",
+        "difficulty": "Medium",
+        "frequency": 68.5212,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+        "title": "1803. Count Pairs With XOR in a Range",
+        "difficulty": "Hard",
+        "frequency": 67.9064,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "title": "13. Roman to Integer",
+        "difficulty": "Easy",
+        "frequency": 67.6149,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-phone-directory",
+        "title": "379. Design Phone Directory",
+        "difficulty": "Medium",
+        "frequency": 67.1046,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-replacements-to-sort-the-array",
+        "title": "2366. Minimum Replacements to Sort the Array",
+        "difficulty": "Hard",
+        "frequency": 66.7919,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-number-of-accepted-invitations",
+        "title": "1820. Maximum Number of Accepted Invitations",
+        "difficulty": "Medium",
+        "frequency": 66.3191,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes",
+        "title": "2973. Find Number of Coins to Place in Tree Nodes",
+        "difficulty": "Hard",
+        "frequency": 66.3191,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/student-attendance-record-ii",
+        "title": "552. Student Attendance Record II",
+        "difficulty": "Hard",
+        "frequency": 66.1584,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-absolute-file-path",
+        "title": "388. Longest Absolute File Path",
+        "difficulty": "Medium",
+        "frequency": 66.1244,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-most-recently-used-queue",
+        "title": "1756. Design Most Recently Used Queue",
+        "difficulty": "Medium",
+        "frequency": 65.7872,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+        "title": "346. Moving Average from Data Stream",
+        "difficulty": "Easy",
+        "frequency": 65.7474,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/expression-add-operators",
+        "title": "282. Expression Add Operators",
+        "difficulty": "Hard",
+        "frequency": 65.5768,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/poor-pigs",
+        "title": "458. Poor Pigs",
+        "difficulty": "Hard",
+        "frequency": 65.2167,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-matching-subsequences",
+        "title": "792. Number of Matching Subsequences",
+        "difficulty": "Medium",
+        "frequency": 65.0105,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+        "title": "424. Longest Repeating Character Replacement",
+        "difficulty": "Medium",
+        "frequency": 64.9182,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+        "title": "329. Longest Increasing Path in a Matrix",
+        "difficulty": "Hard",
+        "frequency": 64.7956,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-domino-rotations-for-equal-row",
+        "title": "1007. Minimum Domino Rotations For Equal Row",
+        "difficulty": "Medium",
+        "frequency": 64.5852,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword",
+        "title": "2018. Check if Word Can Be Placed In Crossword",
+        "difficulty": "Medium",
+        "frequency": 64.427,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+        "title": "2115. Find All Possible Recipes from Given Supplies",
+        "difficulty": "Medium",
+        "frequency": 64.2584,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/battleships-in-a-board",
+        "title": "419. Battleships in a Board",
+        "difficulty": "Medium",
+        "frequency": 64.1769,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-hit-counter",
+        "title": "362. Design Hit Counter",
+        "difficulty": "Medium",
+        "frequency": 64.0774,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-root-of-n-ary-tree",
+        "title": "1506. Find Root of N-Ary Tree",
+        "difficulty": "Medium",
+        "frequency": 64.0334,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/print-binary-tree",
+        "title": "655. Print Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 63.6126,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-string-chain",
+        "title": "1048. Longest String Chain",
+        "difficulty": "Medium",
+        "frequency": 63.6061,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-time-to-finish-the-race",
+        "title": "2188. Minimum Time to Finish the Race",
+        "difficulty": "Hard",
+        "frequency": 63.51,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "title": "56. Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 63.2201,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-repeating-substring",
+        "title": "1062. Longest Repeating Substring",
+        "difficulty": "Medium",
+        "frequency": 63.0121,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/largest-multiple-of-three",
+        "title": "1363. Largest Multiple of Three",
+        "difficulty": "Hard",
+        "frequency": 63.0121,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/decode-string",
+        "title": "394. Decode String",
+        "difficulty": "Medium",
+        "frequency": 62.9197,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "title": "128. Longest Consecutive Sequence",
+        "difficulty": "Medium",
+        "frequency": 62.68,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "title": "4. Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 62.47,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+        "title": "417. Pacific Atlantic Water Flow",
+        "difficulty": "Medium",
+        "frequency": 62.4365,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array",
+        "title": "2369. Check if There is a Valid Partition For The Array",
+        "difficulty": "Medium",
+        "frequency": 62.3081,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/strobogrammatic-number-ii",
+        "title": "247. Strobogrammatic Number II",
+        "difficulty": "Medium",
+        "frequency": 62.0561,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree",
+        "title": "428. Serialize and Deserialize N-ary Tree",
+        "difficulty": "Hard",
+        "frequency": 61.6496,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/smallest-sufficient-team",
+        "title": "1125. Smallest Sufficient Team",
+        "difficulty": "Hard",
+        "frequency": 61.6496,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/amount-of-new-area-painted-each-day",
+        "title": "2158. Amount of New Area Painted Each Day",
+        "difficulty": "Hard",
+        "frequency": 61.6496,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/verbal-arithmetic-puzzle",
+        "title": "1307. Verbal Arithmetic Puzzle",
+        "difficulty": "Hard",
+        "frequency": 61.3356,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time",
+        "title": "2162. Minimum Cost to Set Cooking Time",
+        "difficulty": "Medium",
+        "frequency": 61.3356,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/finding-the-number-of-visible-mountains",
+        "title": "2345. Finding the Number of Visible Mountains",
+        "difficulty": "Medium",
+        "frequency": 61.233,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "title": "42. Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 61.0829,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/top-k-frequent-words",
+        "title": "692. Top K Frequent Words",
+        "difficulty": "Medium",
+        "frequency": 60.8289,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/sliding-window-maximum",
+        "title": "239. Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 60.4632,
+        "company": "Google"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-rooms",
+        "title": "252. Meeting Rooms",
+        "difficulty": "Easy",
+        "frequency": 60.4478,
+        "company": "Google"
+    }
+]

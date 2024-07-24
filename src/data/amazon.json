@@ -1,0 +1,702 @@
+[
+    {
+        "link": "https://leetcode.com/problems/sum-of-total-strength-of-wizards",
+        "title": "2281. Sum of Total Strength of Wizards",
+        "difficulty": "Hard",
+        "frequency": 100,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/substring-with-largest-variance",
+        "title": "2272. Substring With Largest Variance",
+        "difficulty": "Hard",
+        "frequency": 98.2506,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/length-of-the-longest-valid-substring",
+        "title": "2781. Length of the Longest Valid Substring",
+        "difficulty": "Hard",
+        "frequency": 96.5012,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-health-to-beat-game",
+        "title": "2214. Minimum Health to Beat Game",
+        "difficulty": "Medium",
+        "frequency": 94.7517,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-number-of-books-you-can-take",
+        "title": "2355. Maximum Number of Books You Can Take",
+        "difficulty": "Hard",
+        "frequency": 94.2508,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+        "title": "1152. Analyze User Website Visit Pattern",
+        "difficulty": "Medium",
+        "frequency": 92.5194,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array",
+        "title": "2340. Minimum Adjacent Swaps to Make a Valid Array",
+        "difficulty": "Medium",
+        "frequency": 90.77,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/plates-between-candles",
+        "title": "2055. Plates Between Candles",
+        "difficulty": "Medium",
+        "frequency": 89.0206,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-number-of-keypresses",
+        "title": "2268. Minimum Number of Keypresses",
+        "difficulty": "Medium",
+        "frequency": 87.2711,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/concatenated-words",
+        "title": "472. Concatenated Words",
+        "difficulty": "Hard",
+        "frequency": 86.9252,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+        "title": "2398. Maximum Number of Robots Within Budget",
+        "difficulty": "Hard",
+        "frequency": 85.1758,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/lru-cache",
+        "title": "146. LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 83.4264,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "title": "200. Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 83.266,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-ways-to-select-buildings",
+        "title": "2222. Number of Ways to Select Buildings",
+        "difficulty": "Medium",
+        "frequency": 82.9511,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts",
+        "title": "2357. Make Array Zero by Subtracting Equal Amounts",
+        "difficulty": "Easy",
+        "frequency": 82.3217,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/two-sum",
+        "title": "1. Two Sum",
+        "difficulty": "Easy",
+        "frequency": 81.2122,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/reorder-data-in-log-files",
+        "title": "937. Reorder Data in Log Files",
+        "difficulty": "Medium",
+        "frequency": 80.5545,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/reorganize-string",
+        "title": "767. Reorganize String",
+        "difficulty": "Medium",
+        "frequency": 80.4855,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "title": "42. Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 79.123,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome",
+        "title": "2193. Minimum Number of Moves to Make Palindrome",
+        "difficulty": "Hard",
+        "frequency": 77.7336,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-the-k-sum-of-an-array",
+        "title": "2386. Find the K-Sum of an Array",
+        "difficulty": "Hard",
+        "frequency": 77.4717,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-ladder",
+        "title": "127. Word Ladder",
+        "difficulty": "Hard",
+        "frequency": 76.5581,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
+        "title": "719. Find K-th Smallest Pair Distance",
+        "difficulty": "Hard",
+        "frequency": 76.3802,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating",
+        "title": "1864. Minimum Number of Swaps to Make the Binary String Alternating",
+        "difficulty": "Medium",
+        "frequency": 75.6875,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/race-car",
+        "title": "818. Race Car",
+        "difficulty": "Hard",
+        "frequency": 75.4266,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-break-ii",
+        "title": "140. Word Break II",
+        "difficulty": "Hard",
+        "frequency": 74.8844,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-the-number-of-k-big-indices",
+        "title": "2519. Count the Number of K-Big Indices",
+        "difficulty": "Hard",
+        "frequency": 74.4641,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "title": "253. Meeting Rooms II",
+        "difficulty": "Medium",
+        "frequency": 74.279,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-triangular-sum-of-an-array",
+        "title": "2221. Find Triangular Sum of an Array",
+        "difficulty": "Medium",
+        "frequency": 72.8244,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "title": "273. Integer to English Words",
+        "difficulty": "Hard",
+        "frequency": 71.9949,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "title": "49. Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 71.88,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function",
+        "title": "1628. Design an Expression Tree With Evaluate Function",
+        "difficulty": "Medium",
+        "frequency": 71.8284,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/sliding-window-maximum",
+        "title": "239. Sliding Window Maximum",
+        "difficulty": "Hard",
+        "frequency": 71.1751,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+        "title": "4. Median of Two Sorted Arrays",
+        "difficulty": "Hard",
+        "frequency": 70.5302,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty",
+        "title": "2870. Minimum Number of Operations to Make Array Empty",
+        "difficulty": "Medium",
+        "frequency": 70.4378,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "title": "23. Merge k Sorted Lists",
+        "difficulty": "Hard",
+        "frequency": 70.3501,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "title": "5. Longest Palindromic Substring",
+        "difficulty": "Medium",
+        "frequency": 70.1177,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+        "title": "545. Boundary of Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 69.86,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "title": "1268. Search Suggestions System",
+        "difficulty": "Medium",
+        "frequency": 69.5301,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "title": "13. Roman to Integer",
+        "difficulty": "Easy",
+        "frequency": 69.2076,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/koko-eating-bananas",
+        "title": "875. Koko Eating Bananas",
+        "difficulty": "Medium",
+        "frequency": 68.9059,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "title": "295. Find Median from Data Stream",
+        "difficulty": "Hard",
+        "frequency": 68.7516,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "title": "56. Merge Intervals",
+        "difficulty": "Medium",
+        "frequency": 68.4446,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/sequentially-ordinal-rank-tracker",
+        "title": "2102. Sequentially Ordinal Rank Tracker",
+        "difficulty": "Hard",
+        "frequency": 68.3185,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "title": "3. Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 68.2496,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-in-memory-file-system",
+        "title": "588. Design In-Memory File System",
+        "difficulty": "Hard",
+        "frequency": 68.241,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "title": "17. Letter Combinations of a Phone Number",
+        "difficulty": "Medium",
+        "frequency": 68.2182,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments",
+        "title": "2825. Make String a Subsequence Using Cyclic Increments",
+        "difficulty": "Medium",
+        "frequency": 67.9286,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "title": "121. Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 67.6009,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/total-appeal-of-a-string",
+        "title": "2262. Total Appeal of A String",
+        "difficulty": "Hard",
+        "frequency": 67.2059,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks",
+        "title": "2244. Minimum Rounds to Complete All Tasks",
+        "difficulty": "Medium",
+        "frequency": 66.9425,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-tic-tac-toe",
+        "title": "348. Design Tic-Tac-Toe",
+        "difficulty": "Medium",
+        "frequency": 66.5482,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/course-schedule",
+        "title": "207. Course Schedule",
+        "difficulty": "Medium",
+        "frequency": 66.3786,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "title": "2. Add Two Numbers",
+        "difficulty": "Medium",
+        "frequency": 66.0686,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/course-schedule-ii",
+        "title": "210. Course Schedule II",
+        "difficulty": "Medium",
+        "frequency": 65.7091,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+        "title": "2385. Amount of Time for Binary Tree to Be Infected",
+        "difficulty": "Medium",
+        "frequency": 65.0808,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "title": "20. Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 64.9066,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+        "title": "1567. Maximum Length of Subarray With Positive Product",
+        "difficulty": "Medium",
+        "frequency": 64.6088,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "title": "41. First Missing Positive",
+        "difficulty": "Hard",
+        "frequency": 64.0819,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-abbreviation",
+        "title": "527. Word Abbreviation",
+        "difficulty": "Hard",
+        "frequency": 64.0251,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-special-integers",
+        "title": "2376. Count Special Integers",
+        "difficulty": "Hard",
+        "frequency": 64.0251,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "title": "138. Copy List with Random Pointer",
+        "difficulty": "Medium",
+        "frequency": 63.934,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-average-difference",
+        "title": "2256. Minimum Average Difference",
+        "difficulty": "Medium",
+        "frequency": 63.8362,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+        "title": "632. Smallest Range Covering Elements from K Lists",
+        "difficulty": "Hard",
+        "frequency": 63.723,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/lfu-cache",
+        "title": "460. LFU Cache",
+        "difficulty": "Hard",
+        "frequency": 63.6829,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/top-k-frequent-elements",
+        "title": "347. Top K Frequent Elements",
+        "difficulty": "Medium",
+        "frequency": 63.6766,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "title": "53. Maximum Subarray",
+        "difficulty": "Medium",
+        "frequency": 63.3268,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string",
+        "title": "828. Count Unique Characters of All Substrings of a Given String",
+        "difficulty": "Hard",
+        "frequency": 63.2488,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/generate-parentheses",
+        "title": "22. Generate Parentheses",
+        "difficulty": "Medium",
+        "frequency": 63.2413,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+        "title": "973. K Closest Points to Origin",
+        "difficulty": "Medium",
+        "frequency": 63.1563,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/rotting-oranges",
+        "title": "994. Rotting Oranges",
+        "difficulty": "Medium",
+        "frequency": 63.0565,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "title": "88. Merge Sorted Array",
+        "difficulty": "Easy",
+        "frequency": 62.9616,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/next-greater-element-iii",
+        "title": "556. Next Greater Element III",
+        "difficulty": "Medium",
+        "frequency": 62.8566,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+        "title": "863. All Nodes Distance K in Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 62.5775,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "title": "215. Kth Largest Element in an Array",
+        "difficulty": "Medium",
+        "frequency": 62.5272,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "title": "14. Longest Common Prefix",
+        "difficulty": "Easy",
+        "frequency": 62.5131,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/first-unique-number",
+        "title": "1429. First Unique Number",
+        "difficulty": "Medium",
+        "frequency": 62.3757,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/basic-calculator-iii",
+        "title": "772. Basic Calculator III",
+        "difficulty": "Hard",
+        "frequency": 62.1698,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-trees-with-factors",
+        "title": "823. Binary Trees With Factors",
+        "difficulty": "Medium",
+        "frequency": 62.1536,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/regular-expression-matching",
+        "title": "10. Regular Expression Matching",
+        "difficulty": "Hard",
+        "frequency": 62.1322,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "title": "380. Insert Delete GetRandom O(1)",
+        "difficulty": "Medium",
+        "frequency": 61.9049,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/apply-discount-to-prices",
+        "title": "2288. Apply Discount to Prices",
+        "difficulty": "Medium",
+        "frequency": 61.7715,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/word-search-ii",
+        "title": "212. Word Search II",
+        "difficulty": "Hard",
+        "frequency": 61.718,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "title": "11. Container With Most Water",
+        "difficulty": "Medium",
+        "frequency": 61.6303,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/3sum",
+        "title": "15. 3Sum",
+        "difficulty": "Medium",
+        "frequency": 61.6156,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "title": "236. Lowest Common Ancestor of a Binary Tree",
+        "difficulty": "Medium",
+        "frequency": 61.6132,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+        "title": "1063. Number of Valid Subarrays",
+        "difficulty": "Hard",
+        "frequency": 61.3897,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "title": "36. Valid Sudoku",
+        "difficulty": "Medium",
+        "frequency": 61.276,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/spiral-matrix",
+        "title": "54. Spiral Matrix",
+        "difficulty": "Medium",
+        "frequency": 61.0519,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+        "title": "150. Evaluate Reverse Polish Notation",
+        "difficulty": "Medium",
+        "frequency": 60.6297,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-distinct-islands",
+        "title": "694. Number of Distinct Islands",
+        "difficulty": "Medium",
+        "frequency": 60.5689,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/create-hello-world-function",
+        "title": "2667. Create Hello World Function",
+        "difficulty": "Easy",
+        "frequency": 60.4726,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+        "title": "387. First Unique Character in a String",
+        "difficulty": "Easy",
+        "frequency": 60.2676,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/rotate-image",
+        "title": "48. Rotate Image",
+        "difficulty": "Medium",
+        "frequency": 60.1638,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-provinces",
+        "title": "547. Number of Provinces",
+        "difficulty": "Medium",
+        "frequency": 60.0094,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/reveal-cards-in-increasing-order",
+        "title": "950. Reveal Cards In Increasing Order",
+        "difficulty": "Medium",
+        "frequency": 59.9777,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/jump-game",
+        "title": "55. Jump Game",
+        "difficulty": "Medium",
+        "frequency": 59.9419,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/pascals-triangle",
+        "title": "118. Pascal's Triangle",
+        "difficulty": "Easy",
+        "frequency": 59.9369,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/merge-strings-alternately",
+        "title": "1768. Merge Strings Alternately",
+        "difficulty": "Easy",
+        "frequency": 59.7017,
+        "company": "Amazon"
+    },
+    {
+        "link": "https://leetcode.com/problems/optimal-partition-of-string",
+        "title": "2405. Optimal Partition of String",
+        "difficulty": "Medium",
+        "frequency": 59.6679,
+        "company": "Amazon"
+    }
+]

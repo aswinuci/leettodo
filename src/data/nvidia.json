@@ -1,0 +1,415 @@
+[
+    {
+        "link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+        "title": "2571. Minimum Operations to Reduce an Integer to 0",
+        "difficulty": "Medium",
+        "frequency": 100,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/last-stone-weight",
+        "title": "1046. Last Stone Weight",
+        "difficulty": "Easy",
+        "frequency": 98.2784,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree",
+        "title": "255. Verify Preorder Sequence in Binary Search Tree",
+        "difficulty": "Medium",
+        "frequency": 88.4798,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+        "title": "1664. Ways to Make a Fair Array",
+        "difficulty": "Medium",
+        "frequency": 82.4964,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/sliding-puzzle",
+        "title": "773. Sliding Puzzle",
+        "difficulty": "Hard",
+        "frequency": 78.8812,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/lru-cache",
+        "title": "146. LRU Cache",
+        "difficulty": "Medium",
+        "frequency": 77.7011,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/task-scheduler-ii",
+        "title": "2365. Task Scheduler II",
+        "difficulty": "Medium",
+        "frequency": 71.2906,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-knight-moves",
+        "title": "1197. Minimum Knight Moves",
+        "difficulty": "Medium",
+        "frequency": 69.6635,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/beautiful-arrangement",
+        "title": "526. Beautiful Arrangement",
+        "difficulty": "Medium",
+        "frequency": 69.4934,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/shuffle-an-array",
+        "title": "384. Shuffle an Array",
+        "difficulty": "Medium",
+        "frequency": 65.7788,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/linked-list-random-node",
+        "title": "382. Linked List Random Node",
+        "difficulty": "Medium",
+        "frequency": 63.477,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/break-a-palindrome",
+        "title": "1328. Break a Palindrome",
+        "difficulty": "Medium",
+        "frequency": 62.3972,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+        "title": "304. Range Sum Query 2D - Immutable",
+        "difficulty": "Medium",
+        "frequency": 61.0084,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+        "title": "1570. Dot Product of Two Sparse Vectors",
+        "difficulty": "Medium",
+        "frequency": 60.3607,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/degree-of-an-array",
+        "title": "697. Degree of an Array",
+        "difficulty": "Easy",
+        "frequency": 59.2295,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/double-a-number-represented-as-a-linked-list",
+        "title": "2816. Double a Number Represented as a Linked List",
+        "difficulty": "Medium",
+        "frequency": 59.146,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/snapshot-array",
+        "title": "1146. Snapshot Array",
+        "difficulty": "Medium",
+        "frequency": 58.0251,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor",
+        "title": "2433. Find The Original Array of Prefix Xor",
+        "difficulty": "Medium",
+        "frequency": 57.4955,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/max-points-on-a-line",
+        "title": "149. Max Points on a Line",
+        "difficulty": "Hard",
+        "frequency": 55.7628,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-circular-queue",
+        "title": "622. Design Circular Queue",
+        "difficulty": "Medium",
+        "frequency": 55.6171,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "title": "49. Group Anagrams",
+        "difficulty": "Medium",
+        "frequency": 54.0442,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k",
+        "title": "2461. Maximum Sum of Distinct Subarrays With Length K",
+        "difficulty": "Medium",
+        "frequency": 53.8968,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/design-hashmap",
+        "title": "706. Design HashMap",
+        "difficulty": "Easy",
+        "frequency": 49.4492,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+        "title": "329. Longest Increasing Path in a Matrix",
+        "difficulty": "Hard",
+        "frequency": 47.7679,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+        "title": "713. Subarray Product Less Than K",
+        "difficulty": "Medium",
+        "frequency": 47.14,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+        "title": "124. Binary Tree Maximum Path Sum",
+        "difficulty": "Hard",
+        "frequency": 46.4696,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "title": "295. Find Median from Data Stream",
+        "difficulty": "Hard",
+        "frequency": 45.8112,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "title": "208. Implement Trie (Prefix Tree)",
+        "difficulty": "Medium",
+        "frequency": 44.9187,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+        "title": "921. Minimum Add to Make Parentheses Valid",
+        "difficulty": "Medium",
+        "frequency": 44.301,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/reverse-bits",
+        "title": "190. Reverse Bits",
+        "difficulty": "Easy",
+        "frequency": 43.8231,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+        "title": "1319. Number of Operations to Make Network Connected",
+        "difficulty": "Medium",
+        "frequency": 43.6935,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/maximal-square",
+        "title": "221. Maximal Square",
+        "difficulty": "Medium",
+        "frequency": 43.637,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-pivot-index",
+        "title": "724. Find Pivot Index",
+        "difficulty": "Easy",
+        "frequency": 43.1655,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+        "title": "540. Single Element in a Sorted Array",
+        "difficulty": "Medium",
+        "frequency": 43.0209,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "title": "138. Copy List with Random Pointer",
+        "difficulty": "Medium",
+        "frequency": 42.8776,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "title": "2. Add Two Numbers",
+        "difficulty": "Medium",
+        "frequency": 42.523,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/rotate-image",
+        "title": "48. Rotate Image",
+        "difficulty": "Medium",
+        "frequency": 41.2149,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+        "title": "188. Best Time to Buy and Sell Stock IV",
+        "difficulty": "Hard",
+        "frequency": 40.9739,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+        "title": "160. Intersection of Two Linked Lists",
+        "difficulty": "Easy",
+        "frequency": 39.6482,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "title": "36. Valid Sudoku",
+        "difficulty": "Medium",
+        "frequency": 38.0157,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/missing-number",
+        "title": "268. Missing Number",
+        "difficulty": "Easy",
+        "frequency": 37.8928,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+        "title": "451. Sort Characters By Frequency",
+        "difficulty": "Medium",
+        "frequency": 37.1838,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "title": "121. Best Time to Buy and Sell Stock",
+        "difficulty": "Easy",
+        "frequency": 36.3033,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/fibonacci-number",
+        "title": "509. Fibonacci Number",
+        "difficulty": "Easy",
+        "frequency": 34.9018,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+        "title": "92. Reverse Linked List II",
+        "difficulty": "Medium",
+        "frequency": 34.7117,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/find-the-duplicate-number",
+        "title": "287. Find the Duplicate Number",
+        "difficulty": "Medium",
+        "frequency": 33.8089,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+        "title": "349. Intersection of Two Arrays",
+        "difficulty": "Easy",
+        "frequency": 33.3503,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "title": "215. Kth Largest Element in an Array",
+        "difficulty": "Medium",
+        "frequency": 32.6907,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "title": "42. Trapping Rain Water",
+        "difficulty": "Hard",
+        "frequency": 31.4621,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/validate-binary-search-tree",
+        "title": "98. Validate Binary Search Tree",
+        "difficulty": "Medium",
+        "frequency": 31.4108,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/h-index",
+        "title": "274. H-Index",
+        "difficulty": "Medium",
+        "frequency": 31.3354,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+        "title": "19. Remove Nth Node From End of List",
+        "difficulty": "Medium",
+        "frequency": 30.0072,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "title": "20. Valid Parentheses",
+        "difficulty": "Easy",
+        "frequency": 26.6815,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "title": "33. Search in Rotated Sorted Array",
+        "difficulty": "Medium",
+        "frequency": 26.6203,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "title": "3. Longest Substring Without Repeating Characters",
+        "difficulty": "Medium",
+        "frequency": 26.0138,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "title": "70. Climbing Stairs",
+        "difficulty": "Easy",
+        "frequency": 25.353,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/majority-element",
+        "title": "169. Majority Element",
+        "difficulty": "Easy",
+        "frequency": 22.1864,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "title": "200. Number of Islands",
+        "difficulty": "Medium",
+        "frequency": 22.0236,
+        "company": "Nvidia"
+    },
+    {
+        "link": "https://leetcode.com/problems/is-subsequence",
+        "title": "392. Is Subsequence",
+        "difficulty": "Easy",
+        "frequency": 21.4885,
+        "company": "Nvidia"
+    }
+]
