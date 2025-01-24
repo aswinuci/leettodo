@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/leettodo/static/css/main.1b60e1f3.css",
-    "main.js": "/leettodo/static/js/main.eff8a328.js",
+    "main.js": "/leettodo/static/js/main.a50ca64b.js",
     "static/js/453.6558458c.chunk.js": "/leettodo/static/js/453.6558458c.chunk.js",
     "index.html": "/leettodo/index.html",
     "main.1b60e1f3.css.map": "/leettodo/static/css/main.1b60e1f3.css.map",
-    "main.eff8a328.js.map": "/leettodo/static/js/main.eff8a328.js.map",
+    "main.a50ca64b.js.map": "/leettodo/static/js/main.a50ca64b.js.map",
     "453.6558458c.chunk.js.map": "/leettodo/static/js/453.6558458c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b60e1f3.css",
-    "static/js/main.eff8a328.js"
+    "static/js/main.a50ca64b.js"
   ]
 }
