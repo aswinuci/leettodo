@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // List of JSON files
-const files = ['amazon.json', 'apple.json', 'meta.json', 'microsoft.json', 'nvidia.json', 'google.json', 'salesforce.json'];
+const files = ['amazon.json', 'linkedin.json','apple.json', 'meta.json', 'microsoft.json', 'nvidia.json', 'google.json', 'salesforce.json'];
 
 // Function to read and parse JSON files
 function readJSONFile(file) {
